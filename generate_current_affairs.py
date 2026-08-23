@@ -18,7 +18,7 @@ import urllib.parse
 from datetime import date
 
 import feedparser
-import google.generativeai as genai
+from google import genai
 
 # Google News RSS search — free, no API key required.
 QUERIES = {
@@ -79,11 +79,13 @@ def main():
             items.extend(fetch_headlines(q))
         raw[section] = items[:8]
 
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel("gemini-2.0-flash")
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
     prompt = PROMPT_TEMPLATE.format(raw_headlines=json.dumps(raw, indent=2))
-    response = model.generate_content(prompt)
+    response = client.models.generate_content(
+        model="gemini-3.6-flash",
+        contents=prompt,
+    )
     text = response.text
 
     match = re.search(r"\{.*\}", text, re.DOTALL)
