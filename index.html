@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Dose — Drug Inspector Current Affairs</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F6F1E7; --card:#EFE6D2; --ink:#1C2B39;
+    --pharma-green:#0B3D2E; --pharma-green-light:#14523E;
+    --amber:#C97B2E; --sage:#7A9E7E; --line:#D8CBA8; --danger:#9C3B2E;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0; background:var(--paper); color:var(--ink); font-family:'IBM Plex Sans', sans-serif;
+    background-image:linear-gradient(var(--line) 1px, transparent 1px); background-size:100% 2.1em;}
+  .wrap{max-width:920px; margin:0 auto; padding:28px 20px 80px;}
+  header.rx{border-bottom:3px solid var(--pharma-green); padding-bottom:14px; margin-bottom:22px;
+    display:flex; justify-content:space-between; align-items:flex-end; gap:16px; flex-wrap:wrap;}
+  .rx-mark{font-family:'Source Serif 4', serif; font-size:2.6rem; font-weight:700; color:var(--pharma-green); line-height:1; letter-spacing:-1px;}
+  .rx-mark sup{font-size:1rem; font-weight:500; color:var(--amber);}
+  .rx-sub{font-family:'IBM Plex Mono', monospace; font-size:0.75rem; color:var(--pharma-green-light); letter-spacing:0.06em; text-transform:uppercase; margin-top:4px;}
+  .rx-date{font-family:'IBM Plex Mono', monospace; text-align:right; font-size:0.85rem;}
+  .archive{display:flex; gap:8px; flex-wrap:wrap; margin-bottom:22px;}
+  .archive button.chip{background:transparent; border:1px solid var(--sage); color:var(--pharma-green-light);
+    font-family:'IBM Plex Mono', monospace; font-size:0.72rem; padding:5px 10px; border-radius:14px; cursor:pointer;}
+  .archive button.chip.active{background:var(--pharma-green); color:var(--paper); border-color:var(--pharma-green);}
+  .section{margin-bottom:30px;}
+  .drawer-label{display:inline-flex; align-items:center; gap:8px; font-family:'IBM Plex Mono', monospace; font-size:0.72rem;
+    letter-spacing:0.1em; text-transform:uppercase; color:var(--paper); background:var(--pharma-green); padding:5px 12px; border-radius:3px 3px 0 0;}
+  .drawer-label.alt{background:var(--amber);}
+  .cards{border:1px solid var(--line); border-top:none; background:var(--card); border-radius:0 6px 6px 6px; padding:4px;}
+  .item{padding:12px 14px; border-bottom:1px dashed var(--line);}
+  .item:last-child{border-bottom:none;}
+  .item h3{font-family:'Source Serif 4', serif; font-size:1rem; margin:0 0 4px; color:var(--ink);}
+  .item p{margin:0; font-size:0.87rem; line-height:1.5; color:#3a3a32;}
+  .mcq{background:var(--paper); border:1px solid var(--line); border-radius:8px; padding:14px; margin-bottom:10px;}
+  .mcq .q{font-weight:600; margin-bottom:8px; font-size:0.92rem;}
+  .mcq .opts{display:grid; grid-template-columns:1fr 1fr; gap:6px;}
+  .opt{border:1px solid var(--line); border-radius:20px; padding:6px 12px; font-size:0.82rem; cursor:pointer; background:var(--card); text-align:left;}
+  .opt.correct{background:var(--pharma-green); color:var(--paper); border-color:var(--pharma-green);}
+  .opt.wrong{background:var(--danger); color:var(--paper); border-color:var(--danger);}
+  .explain{margin-top:8px; font-size:0.8rem; color:var(--pharma-green-light); display:none; padding-top:8px; border-top:1px dashed var(--line);}
+  .empty{text-align:center; padding:50px 20px; color:#6b6b60; font-family:'Source Serif 4', serif; font-size:1.05rem;}
+  footer{text-align:center; font-family:'IBM Plex Mono', monospace; font-size:0.7rem; color:#8a8a7c; margin-top:40px; letter-spacing:0.05em;}
+  @media (max-width:600px){.mcq .opts{grid-template-columns:1fr;} .rx-mark{font-size:2rem;}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="rx">
+    <div>
+      <div class="rx-mark">℞<sup>x</sup> Daily Dose</div>
+      <div class="rx-sub">Current Affairs · UPSC Drug Inspector Exam</div>
+    </div>
+    <div class="rx-date" id="viewingLabel"></div>
+  </header>
+
+  <div class="archive" id="archiveStrip"></div>
+  <div id="content"><div class="empty">Loading today's briefing…</div></div>
+
+  <footer>UPDATED AUTOMATICALLY EVERY MORNING</footer>
+</div>
+
+<script>
+const SECTIONS = [
+  {key:'pharma', label:'Pharma & Drug Regulation', alt:true},
+  {key:'national', label:'National'},
+  {key:'international', label:'International'},
+  {key:'science', label:'Science & Health'},
+  {key:'important_days', label:'Days, Appointments & Awards'},
+];
+
+function fmtDateLabel(iso){
+  const d = new Date(iso + 'T00:00:00');
+  return d.toLocaleDateString('en-IN', {day:'2-digit', month:'short', year:'numeric'});
+}
+function escapeHtml(str){
+  return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function renderEmpty(msg){
+  document.getElementById('content').innerHTML = `<div class="empty">${msg}</div>`;
+}
+
+function renderEntry(data){
+  const container = document.getElementById('content');
+  let html = '';
+  SECTIONS.forEach(sec => {
+    const items = data[sec.key];
+    if(!items || !items.length) return;
+    html += `<div class="section"><div class="drawer-label${sec.alt?' alt':''}">${sec.label}</div><div class="cards">`;
+    items.forEach(it => {
+      html += `<div class="item"><h3>${escapeHtml(it.title||'')}</h3><p>${escapeHtml(it.summary||'')}</p></div>`;
+    });
+    html += `</div></div>`;
+  });
+  if(data.mcqs && data.mcqs.length){
+    html += `<div class="section"><div class="drawer-label">Self-check MCQs</div><div class="cards" style="padding:14px;">`;
+    data.mcqs.forEach((m, idx) => {
+      html += `<div class="mcq" data-idx="${idx}"><div class="q">${idx+1}. ${escapeHtml(m.q||'')}</div><div class="opts">`;
+      (m.options||[]).forEach((opt, oi) => {
+        html += `<button class="opt" data-oi="${oi}">${escapeHtml(opt)}</button>`;
+      });
+      html += `</div><div class="explain">${escapeHtml(m.explanation||'')}</div></div>`;
+    });
+    html += `</div></div>`;
+  }
+  container.innerHTML = html || '<div class="empty">This entry is empty.</div>';
+  attachMcqHandlers(data.mcqs || []);
+}
+
+function attachMcqHandlers(mcqs){
+  document.querySelectorAll('.mcq').forEach(mcqEl => {
+    const idx = parseInt(mcqEl.getAttribute('data-idx'));
+    const correct = mcqs[idx].answer_index;
+    const opts = mcqEl.querySelectorAll('.opt');
+    opts.forEach(opt => {
+      opt.addEventListener('click', () => {
+        const oi = parseInt(opt.getAttribute('data-oi'));
+        opts.forEach(o => o.disabled = true);
+        opts[correct].classList.add('correct');
+        if(oi !== correct) opt.classList.add('wrong');
+        mcqEl.querySelector('.explain').style.display = 'block';
+      }, {once:true});
+    });
+  });
+}
+
+async function loadDate(dateStr, dates){
+  document.getElementById('viewingLabel').textContent = fmtDateLabel(dateStr);
+  document.querySelectorAll('.archive .chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.date === dateStr);
+  });
+  try{
+    const res = await fetch(`data/${dateStr}.json`, {cache:'no-store'});
+    if(!res.ok) throw new Error();
+    const data = await res.json();
+    renderEntry(data);
+  }catch(e){
+    renderEmpty('Could not load this entry.');
+  }
+}
+
+async function init(){
+  try{
+    const res = await fetch('data/dates.json', {cache:'no-store'});
+    if(!res.ok) throw new Error();
+    const dates = await res.json();
+    if(!dates.length){
+      renderEmpty('No entries yet — the first daily update will appear here after the scheduled run.');
+      return;
+    }
+    const strip = document.getElementById('archiveStrip');
+    dates.slice().reverse().forEach(d => {
+      const chip = document.createElement('button');
+      chip.className = 'chip';
+      chip.dataset.date = d;
+      chip.textContent = fmtDateLabel(d);
+      chip.addEventListener('click', () => loadDate(d, dates));
+      strip.appendChild(chip);
+    });
+    loadDate(dates[dates.length - 1], dates);
+  }catch(e){
+    renderEmpty('No entries yet — the first daily update will appear here after the scheduled run.');
+  }
+}
+
+init();
+</script>
+</body>
+</html>
