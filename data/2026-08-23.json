@@ -2,103 +2,205 @@
   "date": "24 Aug 2026",
   "pharma": [
     {
-      "title": "CDSCO to launch digital drug regulatory platform",
-      "summary": "The Central Drugs Standard Control Organisation (CDSCO) plans to launch the first phase of an end-to-end digital drug regulatory platform within 18 months. This initiative aims to digitize and streamline pharmaceutical regulatory processes across India."
+      "title": "CDSCO to launch first phase of end-to-end digital drug regulatory platform within 18 months: DCGI",
+      "summary": "The Central Drugs Standard Control Organisation (CDSCO) plans to roll out the first phase of its end-to-end digital drug regulatory platform within 18 months. The initiative aims to digitize and streamline regulatory processes across the country."
     },
     {
       "title": "Intas gets CDSCO nod for breast cancer drug Trastuzumab Emtansine",
-      "summary": "Intas Pharmaceuticals has received regulatory approval from the CDSCO for Trastuzumab Emtansine, an antibody-drug conjugate used in breast cancer treatment."
+      "summary": "Intas Pharmaceuticals has received regulatory approval from CDSCO for its breast cancer drug Trastuzumab Emtansine. This clearance expands treatment options for HER2-positive breast cancer patients in India."
     },
     {
-      "title": "Eisai launches Alzheimer's drug Leqembi in India",
-      "summary": "Pharma company Eisai has launched its Alzheimer's disease treatment drug Leqembi in India following approval from the CDSCO."
+      "title": "Eisai launches Alzheimer's drug Leqembi in India after CDSCO approval",
+      "summary": "Pharma firm Eisai has launched its Alzheimer's disease treatment drug, Leqembi, in the Indian market. The commercial launch follows approval from the CDSCO."
     },
     {
-      "title": "CDSCO proposes ban on 'Same Brand, Different Drug' practice",
-      "summary": "The CDSCO has proposed a ban on using identical brand names for formulations containing different active pharmaceutical ingredients to prevent confusion and protect patient safety."
+      "title": "CDSCO proposes to ban \"Same Brand, Different Drug\" practice",
+      "summary": "CDSCO has proposed prohibiting pharmaceutical companies from using identical brand names for formulations containing different active drug ingredients. The move aims to eliminate medication errors and safeguard patient safety."
     },
     {
-      "title": "NPPA caps prices of 39 new medicines amid calls for pricing review",
-      "summary": "The National Pharmaceutical Pricing Authority (NPPA) capped the prices of 39 new formulation drugs. Meanwhile, a parliamentary panel noted that roughly 82% of medicines sold in India remain outside direct price control."
+      "title": "NPPA caps prices of 39 new medicines as panel seeks review of price control framework",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has fixed price caps for 39 new drug formulations. Meanwhile, a parliamentary committee noted that over 80% of medicines in India currently fall outside direct price controls, recommending a review."
     }
   ],
   "national": [
     {
       "title": "India celebrates National Panchayati Raj Day",
-      "summary": "India commemorated National Panchayati Raj Day to highlight and strengthen local self-governance across rural institutions."
+      "summary": "India observed National Panchayati Raj Day to commemorate rural local self-governance and grassroots democracy. Celebrations highlighted efforts to strengthen decentralized administration across rural India."
     },
     {
-      "title": "Free trade agreements protect national interests, says Union Minister",
-      "summary": "Union Minister Shivraj Singh Chouhan stated that recent free trade agreements signed by India fully protect the nation's economic and strategic interests."
+      "title": "PM Modi becomes longest-serving elected head of government in India",
+      "summary": "Prime Minister Narendra Modi has officially achieved the milestone of becoming India's longest-serving elected head of government. The milestone accounts for his tenure as Chief Minister and Prime Minister combined."
+    },
+    {
+      "title": "Government notifies new Income Tax Rules 2026",
+      "summary": "The central government has notified the Income Tax Rules 2026 to enforce stricter compliance and streamline tax processing. The updated framework introduces enhanced reporting norms for individual and corporate taxpayers."
     }
   ],
   "international": [
     {
-      "title": "US-Canada trade talks falter",
-      "summary": "Bilateral trade discussions between the United States and Canada hit severe roadblocks following disagreements over trade policies and economic terms."
+      "title": "Foreign Ministers of BRICS exchange views on global and regional issues",
+      "summary": "Foreign Ministers from the BRICS member states gathered to discuss global economic security, geopolitical conflicts, and multilateral cooperation. The talks focused on fostering shared perspectives on mutual international concerns."
     },
     {
-      "title": "Indian women's team competes in FIH Hockey World Cup",
-      "summary": "The Indian women's national hockey team faced Australia in an international group-stage match at the FIH Hockey World Cup."
+      "title": "US-Canada trade talks stall as dispute escalates",
+      "summary": "Trade negotiations between the United States and Canada faced severe disruption following disagreements over cross-border tariffs and economic policies. Donald Trump expressed frustration over trade demands following the breakdown of bilateral talks."
+    },
+    {
+      "title": "Union Minister Piyush Goyal meets International Relations Director of LVMH",
+      "summary": "Union Minister Piyush Goyal met with the International Relations Director of global luxury conglomerate LVMH in New Delhi. Discussions centered on expanding investment and commercial partnerships in retail and manufacturing."
+    }
+  ],
+  "economy": [
+    {
+      "title": "RBI keeps repo rate unchanged and projects GDP growth at 6.9%",
+      "summary": "The Reserve Bank of India's Monetary Policy Committee retained the repo rate at 5.25% amid global uncertainties. The central bank projected India's real GDP growth at 6.9% for the current fiscal year."
+    },
+    {
+      "title": "India needs 20 key reforms to reach a $20 trillion economy by 2036",
+      "summary": "A economic report highlighted that India must implement 20 major structural reforms across key sectors to achieve a $20 trillion GDP target by 2036. Focus areas include labor efficiency, trade facilitation, and infrastructure scale-up."
+    },
+    {
+      "title": "India's Manufacturing PMI drops to 5-year low",
+      "summary": "India's Manufacturing Purchasing Managers' Index (PMI) recorded its lowest level in five years due to a slowdown in output growth and softening demand. Analysts attributed the decline to global trade headwinds and domestic input costs."
     }
   ],
   "science": [
     {
-      "title": "India and Japan sign quantum technology and healthcare agreements",
-      "summary": "India and Japan signed bilateral cooperation agreements focusing on joint advancement in quantum technology and healthcare research."
+      "title": "India and France review bilateral cooperation in science, technology, and space",
+      "summary": "India and France reviewed their ongoing strategic cooperation across scientific research, emerging technology, and space exploration. Both nations agreed to expand joint initiatives in satellite deployment and technological research."
     },
     {
-      "title": "THSTI hosts 3rd Industry Meet 'SYNCHN 2026'",
-      "summary": "The Translational Health Science and Technology Institute hosted its 3rd industry engagement meeting titled 'SYNCHN 2026' to foster academia-industry collaboration."
+      "title": "India advocates affordable and sustainable innovation at BRICS Science meet",
+      "summary": "At the BRICS Science meeting, Indian representatives emphasized the need for innovation that is accessible, affordable, trusted, and sustainable. India urged member states to facilitate cross-border scientific collaboration and tech transfer."
     },
     {
-      "title": "Thermo Fisher Scientific showcases biopharma technologies in India",
-      "summary": "Thermo Fisher Scientific presented next-generation technological solutions in India to support and expand the local biopharmaceutical innovation ecosystem."
+      "title": "Japan and India discuss medical device and healthcare collaboration",
+      "summary": "Delegations from Japan and India met to advance bilateral partnerships in medical device manufacturing and healthcare technology. The talks aimed at boosting supply chain resilience in medical equipment."
+    }
+  ],
+  "environment": [
+    {
+      "title": "State of India's Environment 2026 Report released",
+      "summary": "The State of India's Environment 2026 report underscored mounting climate risks, increased human-wildlife conflicts, and gaps in environmental monitoring. The document calls for urgent local mitigation plans and enhanced pollution controls."
+    },
+    {
+      "title": "BRICS senior officials convene in New Delhi for climate discussions",
+      "summary": "Senior officials from BRICS nations met in New Delhi to deliberate on climate change priorities and sustainable development goals. The agenda prioritized global climate finance commitments and green transition strategies."
+    }
+  ],
+  "sports": [
+    {
+      "title": "First Khelo India Tribal Games begin in Chhattisgarh",
+      "summary": "The inaugural Khelo India Tribal Games commenced in Chhattisgarh to promote sporting talent among tribal youth across India. The tournament showcases traditional and contemporary athletic disciplines."
+    },
+    {
+      "title": "SAI and MyBharat launch Commonwealth Games engagement initiatives",
+      "summary": "The Sports Authority of India (SAI) alongside the MyBharat portal launched nationwide engagement campaigns ahead of the upcoming Commonwealth Games. The programs aim to build mass awareness and support for Indian athletes."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "PM Modi receives FAO's highest honour, the Agricola Medal",
+      "summary": "Prime Minister Narendra Modi was conferred with the Food and Agriculture Organization's (FAO) highest distinction, the Agricola Medal. PM Modi dedicated the award to the farming community of India."
+    },
+    {
+      "title": "President Murmu to confer National Teachers Awards 2026 on 48 educators",
+      "summary": "President Droupadi Murmu will present the National Teachers Awards 2026 to 48 selected teachers on September 5. The award recognizes exemplary contributions to improving educational standards and student welfare."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India and Japan sign MoA on Maritime Security Cooperation",
+      "summary": "India and Japan signed a Memorandum of Agreement (MoA) focused on enhancing maritime security cooperation and defence technology sharing. The accord aims to foster stability and open sea lines across the Indo-Pacific region."
+    },
+    {
+      "title": "Former Army Chief highlights China as India's main long-term competitor",
+      "summary": "Former Chief of Army Staff General M.M. Naravane stated that China remains India's principal long-term strategic competitor. He emphasized the necessity of persistent border modernization and defence capability enhancement."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Government launches PM RAHAT Scheme for cashless road accident treatment",
+      "summary": "The central government introduced the PM RAHAT Scheme, providing cashless medical treatment up to Rs 1.5 lakh for road accident victims during critical hours. The scheme aims to reduce trauma-related casualties nationwide."
+    },
+    {
+      "title": "Government launches Rs 497-crore RELIEF scheme for exporters",
+      "summary": "A Rs 497-crore RELIEF scheme was launched to mitigate economic damages for Indian exporters affected by ongoing conflicts in the Middle East. The scheme offers financial liquidity support and logistics compensation."
+    },
+    {
+      "title": "Ashok Kumar Lahiri appointed as Vice Chairperson of NITI Aayog",
+      "summary": "Economist Ashok Kumar Lahiri has been appointed as the new Vice Chairperson of NITI Aayog. Prime Minister Narendra Modi extended best wishes for his term leading the government's policy think tank."
+    },
+    {
+      "title": "UP Government launches MYUVA scheme for youth entrepreneurs",
+      "summary": "The Uttar Pradesh government introduced the MYUVA scheme to foster self-employment and entrepreneurial ventures among the state's youth. The initiative provides capital support and business incubation assistance."
     }
   ],
   "important_days": [
     {
-      "title": "International Youth Day - August 12",
-      "summary": "International Youth Day is observed globally on August 12 to bring youth issues to the forefront of the international community."
+      "title": "International Youth Day observed on 12 August",
+      "summary": "International Youth Day was observed worldwide on 12 August under the auspices of the United Nations. The day emphasizes the role of young citizens in driving global societal development and technological innovation."
     },
     {
-      "title": "International Day of Yoga - June 21",
-      "summary": "International Day of Yoga is celebrated annually on June 21 to promote holistic health and well-being worldwide."
+      "title": "International Day of Yoga observed annually on 21 June",
+      "summary": "The United Nations recognizes 21 June as the International Day of Yoga to spread awareness regarding the holistic health benefits of yoga practice. Events are organized globally to promote physical and mental well-being."
     }
   ],
   "mcqs": [
     {
-      "q": "Which pharmaceutical firm received CDSCO approval to launch the Alzheimer's drug Leqembi in India?",
+      "q": "Which newly launched scheme provides cashless medical treatment of up to Rs 1.5 lakh for road accident victims?",
       "options": [
-        "Eisai",
-        "Intas Pharmaceuticals",
-        "Thermo Fisher Scientific",
-        "Cipla"
+        "PM RAHAT Scheme",
+        "PM RELIEF Scheme",
+        "MYUVA Scheme",
+        "PM JAN AUSHADHI Scheme"
       ],
       "answer_index": 0,
-      "explanation": "Eisai officially launched its Alzheimer's disease treatment Leqembi in India following regulatory clearance from the CDSCO."
+      "explanation": "The government launched the PM RAHAT Scheme to provide cashless treatment up to Rs 1.5 lakh for victims of road accidents during critical trauma hours."
     },
     {
-      "q": "What risk does the CDSCO aim to mitigate by proposing a ban on the 'Same Brand, Different Drug' practice?",
+      "q": "Prime Minister Narendra Modi was recently awarded the Agricola Medal, the highest honour of which international body?",
       "options": [
-        "Patient confusion and medication errors due to identical brand names for different APIs",
-        "High import tariffs on Active Pharmaceutical Ingredients",
-        "Delay in digital licensing for retail pharmacies",
-        "Overpricing of patent-expired biological products"
+        "World Health Organization (WHO)",
+        "Food and Agriculture Organization (FAO)",
+        "United Nations Development Programme (UNDP)",
+        "World Bank"
       ],
-      "answer_index": 0,
-      "explanation": "CDSCO's proposal to ban 'Same Brand, Different Drug' aims to prevent mix-ups where distinct drug formulations are marketed under the same brand name."
+      "answer_index": 1,
+      "explanation": "Prime Minister Modi received the Agricola Medal, which is the highest honour conferred by the Food and Agriculture Organization (FAO), and dedicated it to Indian farmers."
     },
     {
-      "q": "India recently signed bilateral cooperation agreements in quantum technology and healthcare with which country?",
+      "q": "India recently signed a Memorandum of Agreement (MoA) on Maritime Security Cooperation to strengthen defence technology ties with which country?",
       "options": [
-        "Japan",
-        "Canada",
         "United States",
+        "France",
+        "Japan",
         "Australia"
       ],
-      "answer_index": 0,
-      "explanation": "India and Japan signed key agreements targeting institutional cooperation in healthcare and quantum technology."
+      "answer_index": 2,
+      "explanation": "India and Japan signed an MoA on Maritime Security Cooperation to deepen defence technology partnerships and secure trade routes in the Indo-Pacific."
+    },
+    {
+      "q": "Who among the following has been appointed as the Vice Chairperson of NITI Aayog?",
+      "options": [
+        "Rajiv Kumar",
+        "Ashok Kumar Lahiri",
+        "Raghav Chadha",
+        "Shivraj Singh Chouhan"
+      ],
+      "answer_index": 1,
+      "explanation": "Ashok Kumar Lahiri has been appointed as the Vice Chairperson of NITI Aayog."
+    },
+    {
+      "q": "The inaugural edition of the Khelo India Tribal Games commenced in which state?",
+      "options": [
+        "Jharkhand",
+        "Chhattisgarh",
+        "Odisha",
+        "Madhya Pradesh"
+      ],
+      "answer_index": 1,
+      "explanation": "The first Khelo India Tribal Games began in Chhattisgarh to promote sports talent among tribal youth."
     }
   ]
 }
