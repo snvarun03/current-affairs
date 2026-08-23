@@ -24,9 +24,16 @@ from google import genai
 QUERIES = {
     "pharma": ["CDSCO drug approval India", "NPPA drug price India",
                "pharmacovigilance India", "drug regulation India"],
-    "national": ["India national news today"],
-    "international": ["world news today"],
-    "science": ["India science technology health news"],
+    "national": ["India national news today", "India government policy news"],
+    "international": ["world news today", "international relations India news"],
+    "economy": ["India economy business news today", "RBI monetary policy news"],
+    "science": ["India science technology news", "India health news today"],
+    "environment": ["India environment climate news"],
+    "sports": ["India sports news today"],
+    "awards_honours": ["award honour India news today"],
+    "defence": ["India defence security news today"],
+    "schemes_appointments": ["India government scheme launch news",
+                              "India new appointment chairman news"],
     "important_days": ["international observance day today"],
 }
 
@@ -42,11 +49,13 @@ def fetch_headlines(query, limit=4):
     ]
 
 
-PROMPT_TEMPLATE = """You are preparing a daily current affairs briefing for a
-UPSC Drug Inspector exam aspirant (India). Below are real headlines scraped
-today from Google News, grouped by rough category. Select the most
-exam-relevant items from each group, rewrite each into a clean 1-2 sentence
-factual summary, and generate 3 self-check MCQs based on these facts.
+PROMPT_TEMPLATE = """You are preparing a comprehensive daily current affairs
+briefing for a competitive exam aspirant in India (UPSC Drug Inspector, SSC
+CGL, and similar exams). Below are real headlines scraped today from Google
+News, grouped by rough category. For each category, select the most
+exam-relevant items, rewrite each into a clean 1-2 sentence factual summary,
+and generate 5 self-check MCQs covering a spread of these facts (not just
+one category).
 
 RAW HEADLINES:
 {raw_headlines}
@@ -59,15 +68,22 @@ exact schema:
   "pharma": [{{"title": "...", "summary": "..."}}],
   "national": [{{"title": "...", "summary": "..."}}],
   "international": [{{"title": "...", "summary": "..."}}],
+  "economy": [{{"title": "...", "summary": "..."}}],
   "science": [{{"title": "...", "summary": "..."}}],
+  "environment": [{{"title": "...", "summary": "..."}}],
+  "sports": [{{"title": "...", "summary": "..."}}],
+  "awards_honours": [{{"title": "...", "summary": "..."}}],
+  "defence": [{{"title": "...", "summary": "..."}}],
+  "schemes_appointments": [{{"title": "...", "summary": "..."}}],
   "important_days": [{{"title": "...", "summary": "..."}}],
   "mcqs": [
     {{"q": "...", "options": ["...","...","...","..."], "answer_index": 0, "explanation": "..."}}
   ]
 }}
 
-Pick 3-5 items per section (skip a section if nothing relevant was scraped).
-Base everything only on the headlines given above — do not invent facts.
+Pick 3-5 items per section (skip a section only if truly nothing relevant
+was scraped for it). Base everything only on the headlines given above — do
+not invent facts.
 """
 
 
