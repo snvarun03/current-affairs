@@ -1,0 +1,104 @@
+{
+  "date": "24 Aug 2026",
+  "pharma": [
+    {
+      "title": "CDSCO to launch digital drug regulatory platform",
+      "summary": "The Central Drugs Standard Control Organisation (CDSCO) plans to launch the first phase of an end-to-end digital drug regulatory platform within 18 months. This initiative aims to digitize and streamline pharmaceutical regulatory processes across India."
+    },
+    {
+      "title": "Intas gets CDSCO nod for breast cancer drug Trastuzumab Emtansine",
+      "summary": "Intas Pharmaceuticals has received regulatory approval from the CDSCO for Trastuzumab Emtansine, an antibody-drug conjugate used in breast cancer treatment."
+    },
+    {
+      "title": "Eisai launches Alzheimer's drug Leqembi in India",
+      "summary": "Pharma company Eisai has launched its Alzheimer's disease treatment drug Leqembi in India following approval from the CDSCO."
+    },
+    {
+      "title": "CDSCO proposes ban on 'Same Brand, Different Drug' practice",
+      "summary": "The CDSCO has proposed a ban on using identical brand names for formulations containing different active pharmaceutical ingredients to prevent confusion and protect patient safety."
+    },
+    {
+      "title": "NPPA caps prices of 39 new medicines amid calls for pricing review",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) capped the prices of 39 new formulation drugs. Meanwhile, a parliamentary panel noted that roughly 82% of medicines sold in India remain outside direct price control."
+    }
+  ],
+  "national": [
+    {
+      "title": "India celebrates National Panchayati Raj Day",
+      "summary": "India commemorated National Panchayati Raj Day to highlight and strengthen local self-governance across rural institutions."
+    },
+    {
+      "title": "Free trade agreements protect national interests, says Union Minister",
+      "summary": "Union Minister Shivraj Singh Chouhan stated that recent free trade agreements signed by India fully protect the nation's economic and strategic interests."
+    }
+  ],
+  "international": [
+    {
+      "title": "US-Canada trade talks falter",
+      "summary": "Bilateral trade discussions between the United States and Canada hit severe roadblocks following disagreements over trade policies and economic terms."
+    },
+    {
+      "title": "Indian women's team competes in FIH Hockey World Cup",
+      "summary": "The Indian women's national hockey team faced Australia in an international group-stage match at the FIH Hockey World Cup."
+    }
+  ],
+  "science": [
+    {
+      "title": "India and Japan sign quantum technology and healthcare agreements",
+      "summary": "India and Japan signed bilateral cooperation agreements focusing on joint advancement in quantum technology and healthcare research."
+    },
+    {
+      "title": "THSTI hosts 3rd Industry Meet 'SYNCHN 2026'",
+      "summary": "The Translational Health Science and Technology Institute hosted its 3rd industry engagement meeting titled 'SYNCHN 2026' to foster academia-industry collaboration."
+    },
+    {
+      "title": "Thermo Fisher Scientific showcases biopharma technologies in India",
+      "summary": "Thermo Fisher Scientific presented next-generation technological solutions in India to support and expand the local biopharmaceutical innovation ecosystem."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "International Youth Day - August 12",
+      "summary": "International Youth Day is observed globally on August 12 to bring youth issues to the forefront of the international community."
+    },
+    {
+      "title": "International Day of Yoga - June 21",
+      "summary": "International Day of Yoga is celebrated annually on June 21 to promote holistic health and well-being worldwide."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which pharmaceutical firm received CDSCO approval to launch the Alzheimer's drug Leqembi in India?",
+      "options": [
+        "Eisai",
+        "Intas Pharmaceuticals",
+        "Thermo Fisher Scientific",
+        "Cipla"
+      ],
+      "answer_index": 0,
+      "explanation": "Eisai officially launched its Alzheimer's disease treatment Leqembi in India following regulatory clearance from the CDSCO."
+    },
+    {
+      "q": "What risk does the CDSCO aim to mitigate by proposing a ban on the 'Same Brand, Different Drug' practice?",
+      "options": [
+        "Patient confusion and medication errors due to identical brand names for different APIs",
+        "High import tariffs on Active Pharmaceutical Ingredients",
+        "Delay in digital licensing for retail pharmacies",
+        "Overpricing of patent-expired biological products"
+      ],
+      "answer_index": 0,
+      "explanation": "CDSCO's proposal to ban 'Same Brand, Different Drug' aims to prevent mix-ups where distinct drug formulations are marketed under the same brand name."
+    },
+    {
+      "q": "India recently signed bilateral cooperation agreements in quantum technology and healthcare with which country?",
+      "options": [
+        "Japan",
+        "Canada",
+        "United States",
+        "Australia"
+      ],
+      "answer_index": 0,
+      "explanation": "India and Japan signed key agreements targeting institutional cooperation in healthcare and quantum technology."
+    }
+  ]
+}
