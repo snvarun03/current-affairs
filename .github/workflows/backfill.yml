@@ -1,0 +1,39 @@
+name: Backfill a date range
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date (YYYY-MM-DD)"
+        required: true
+        default: "2026-05-01"
+      end_date:
+        description: "End date (YYYY-MM-DD)"
+        required: true
+        default: "2026-05-31"
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - run: pip install -r requirements.txt
+
+      - name: Backfill selected date range
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python backfill_month.py "${{ inputs.start_date }}" "${{ inputs.end_date }}"
+
+      - name: Commit and push updated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Backfill current affairs ${{ inputs.start_date }} to ${{ inputs.end_date }}"
+          file_pattern: "data/*.json"
