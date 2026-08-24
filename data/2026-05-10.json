@@ -1,0 +1,178 @@
+{
+  "date": "10 May 2026",
+  "pharma": [
+    {
+      "title": "Drugmakers must report safety data from launch date, not approval date: CDSCO",
+      "summary": "The Central Drugs Standard Control Organisation (CDSCO) mandated that drug manufacturers must submit safety data starting from the commercial launch date of a medicine rather than its approval date."
+    },
+    {
+      "title": "India's Drug Panel Recommends Wegovy for Metabolic Liver Disease Treatment",
+      "summary": "India's subject expert panel under the drug regulator recommended the approval of Wegovy for treating metabolic liver disease."
+    },
+    {
+      "title": "GSK Moves Closer to India Launch of RSV Vaccine",
+      "summary": "Pharmaceutical major GlaxoSmithKline (GSK) progressed towards regulatory approval and launch of its Respiratory Syncytial Virus (RSV) vaccine in India."
+    },
+    {
+      "title": "Aurobindo Arm CuraTeQ Clears Key CDSCO Hurdle for Bevacizumab Cancer Biosimilar",
+      "summary": "CuraTeQ, a subsidiary of Aurobindo Pharma, secured a major CDSCO clearance for its cancer biosimilar Bevacizumab."
+    },
+    {
+      "title": "AIIMS Bhopal Toll-Free Number To Report Harmful Effects Of Medicines",
+      "summary": "AIIMS Bhopal launched a dedicated toll-free telephone number to enable citizens and medical staff to report adverse drug reactions and adverse effects of medicines."
+    }
+  ],
+  "national": [
+    {
+      "title": "Vijay, Tamil Nadu election results 2026: Film star takes oath as chief minister",
+      "summary": "Actor Vijay was sworn in as the Chief Minister of Tamil Nadu following the 2026 state assembly elections, leading a TVK government with a 35-member cabinet."
+    },
+    {
+      "title": "PM Modi asks Indians to return to WFH as global oil crisis worsens",
+      "summary": "Prime Minister Narendra Modi advised citizens and organizations to temporarily switch back to work-from-home and delay non-essential foreign travel to conserve fuel amidst severe global oil disruptions."
+    }
+  ],
+  "international": [
+    {
+      "title": "Trump calls Iran's response to ceasefire proposal 'unacceptable'",
+      "summary": "US President Donald Trump stated that Iran's response to the peace and ceasefire proposal put forward by the United States was completely unacceptable."
+    },
+    {
+      "title": "Ukraine and Russia accuse each other of breaking ceasefire",
+      "summary": "Ukraine and Russia exchanged mutual accusations regarding alleged violations of an active ceasefire agreement."
+    }
+  ],
+  "economy": [
+    {
+      "title": "India’s informal sector becoming less indebted, also investing less",
+      "summary": "Data indicates that India's informal economic sector is experiencing lower debt levels alongside a decline in total capital investments."
+    },
+    {
+      "title": "Middle East turmoil to keep oil prices elevated for years, dent India’s GDP growth: ADB chief economist",
+      "summary": "The Asian Development Bank (ADB) Chief Economist warned that sustained Middle East conflicts will keep global oil prices elevated for years, impacting India's GDP growth."
+    }
+  ],
+  "science": [
+    {
+      "title": "Reproductive cancers dominate India’s tally; women bear the brunt",
+      "summary": "A recent health analysis reported that reproductive cancers account for the major share of cancer cases in India, affecting women disproportionately."
+    },
+    {
+      "title": "Surgery not required on Grade I spondylolisthesis patient- Consumer court slaps Rs 50 lakh compensation",
+      "summary": "A consumer court awarded Rs 50 lakh in compensation after finding that surgery performed on a patient suffering from Grade I spondylolisthesis was unwarranted."
+    }
+  ],
+  "environment": [
+    {
+      "title": "Environmental checks must for data centres too, say scientists",
+      "summary": "Environmental scientists highlighted the urgent need for mandatory environmental impact assessments and resource regulation for data centres operating in India."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Senior Women’s National Coaching Camp Announced by Hockey India",
+      "summary": "Hockey India announced the national coaching camp for the Senior Women's hockey team to prepare for upcoming international matches."
+    },
+    {
+      "title": "Gagan Narang distributes five lakh pellets to mark Mother’s Day",
+      "summary": "Olympic shooting medalist Gagan Narang distributed five lakh airgun pellets to emerging shooters to mark Mother's Day."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Priyanka Chopra honoured with Global Vanguard Award at Gold Gala 2026",
+      "summary": "Actor Priyanka Chopra was bestowed with the Global Vanguard Award at the Gold Gala 2026 event."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India Names Vice Admiral Krishna Swaminathan As New Naval Chief",
+      "summary": "The Government of India named Vice Admiral Krishna Swaminathan as the next Chief of Naval Staff ahead of Admiral Tripathi's retirement."
+    },
+    {
+      "title": "Australia, India deepen strategic defence partnership at 10th Defence Policy Talks",
+      "summary": "India and Australia reaffirmed their strategic defense ties during the 10th edition of the bilateral Defence Policy Talks."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "SAIL appoints Ashok Kumar Panda as Chairman and Managing Director",
+      "summary": "Steel Authority of India Limited (SAIL) announced the appointment of Ashok Kumar Panda as its Chairman and Managing Director (CMD)."
+    },
+    {
+      "title": "Bharat Bhushan appointed as Chairman of Andhra Pradesh FDC",
+      "summary": "P. Bharat Bhushan was appointed as the Chairman of the Andhra Pradesh State Film, TV & Theatre Development Corporation."
+    },
+    {
+      "title": "Mother’s Day gift: CM launches Rs 3.5cr scheme to support youth leaving CCIs",
+      "summary": "A state government launched a Rs 3.5 crore financial welfare scheme targeted at supporting young individuals transitioning out of Child Care Institutions (CCIs)."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "Happy Mother's Day 2026: A Global Celebration",
+      "summary": "Mother's Day was observed globally on May 10, 2026, honoring maternal figures and their contributions to society."
+    },
+    {
+      "title": "National Technology Day Eve Celebrations",
+      "summary": "Observances marked the eve of India's National Technology Day (May 11), commemorating the 1998 Pokhran-II nuclear tests."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "As per the recent directive issued by the Central Drugs Standard Control Organisation (CDSCO), drugmakers are required to report drug safety data starting from which milestone?",
+      "options": [
+        "Date of regulatory approval",
+        "Date of commercial product launch",
+        "Date of initiation of Phase-III trials",
+        "Date of patent grant"
+      ],
+      "answer_index": 1,
+      "explanation": "CDSCO ruled that pharmaceutical companies must submit drug safety data starting from the actual commercial launch date rather than the approval date."
+    },
+    {
+      "q": "Who has been named as the new Chief of the Naval Staff of India in May 2026?",
+      "options": [
+        "Vice Admiral Krishna Swaminathan",
+        "Vice Admiral Dinesh K. Tripathi",
+        "Vice Admiral R. Hari Kumar",
+        "Vice Admiral Karambir Singh"
+      ],
+      "answer_index": 0,
+      "explanation": "Vice Admiral Krishna Swaminathan has been named as the new Chief of Naval Staff ahead of Admiral Tripathi's retirement."
+    },
+    {
+      "q": "Who was honored with the Global Vanguard Award at the Gold Gala 2026?",
+      "options": [
+        "Deepika Padukone",
+        "Priyanka Chopra",
+        "Alia Bhatt",
+        "Kareena Kapoor Khan"
+      ],
+      "answer_index": 1,
+      "explanation": "Actor Priyanka Chopra was honored with the Global Vanguard Award at the Gold Gala 2026."
+    },
+    {
+      "q": "Who has been appointed as the Chairman and Managing Director (CMD) of Steel Authority of India Limited (SAIL) in May 2026?",
+      "options": [
+        "Ashok Kumar Panda",
+        "P. Bharat Bhushan",
+        "Amarendu Prakash",
+        "Soma Mondal"
+      ],
+      "answer_index": 0,
+      "explanation": "Ashok Kumar Panda was appointed as the new Chairman and Managing Director of Steel Authority of India Limited (SAIL)."
+    },
+    {
+      "q": "According to the Asian Development Bank (ADB) Chief Economist, which factor is anticipated to keep global oil prices elevated and impact India's GDP growth?",
+      "options": [
+        "Strict European carbon taxes",
+        "Ongoing Middle East turmoil",
+        "OPEC+ cutting oil production by 50%",
+        "Major disruptions in South Asian monsoons"
+      ],
+      "answer_index": 1,
+      "explanation": "The ADB Chief Economist stated that persistent Middle East turmoil will keep global oil prices elevated for years, negatively impacting India's GDP growth."
+    }
+  ]
+}

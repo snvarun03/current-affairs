@@ -1,0 +1,182 @@
+{
+  "date": "06 May 2026",
+  "pharma": [
+    {
+      "title": "CDSCO Mandates 30-Day Window to Answer Queries on Drug Applications",
+      "summary": "The Central Drugs Standard Control Organisation (CDSCO) has mandated a strict 30-day timeline for applicants to respond to regulatory queries regarding drug applications. Applications with unanswered queries beyond 30 days will be automatically rejected."
+    },
+    {
+      "title": "NPPA Fixes Retail Prices for 42 Drug Formulations",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has capped retail prices for 42 drug formulations. The price control covers combination therapies used for treating diabetes, heart diseases, and formulations containing paracetamol and atorvastatin."
+    },
+    {
+      "title": "Novo Nordisk's Wegovy Receives SEC Nod for MASH Treatment in India",
+      "summary": "The Subject Expert Committee (SEC) under CDSCO has granted approval to Novo Nordisk's drug Wegovy for the treatment of Metabolic Dysfunction-Associated Steatohepatitis (MASH) in India."
+    },
+    {
+      "title": "CDSCO West Zone Rollout of Digital Transformation Drive",
+      "summary": "CDSCO West Zone has launched a major digital transformation initiative focusing on streamlining services via the Online National Drug Licensing System (ONDLS)."
+    }
+  ],
+  "national": [
+    {
+      "title": "Government Issues First Official Protocol for National Song 'Vande Mataram'",
+      "summary": "The Union Government has issued its first-ever official protocol for the National Song, mandating the full six-stanza performance of 'Vande Mataram' at state official events."
+    },
+    {
+      "title": "Government Clarifies Sports Policy on Pakistan",
+      "summary": "The Ministry of Youth Affairs and Sports clarified that Pakistani athletes are permitted to participate in multilateral sports events hosted in India, while maintaining the ongoing ban on bilateral sporting ties."
+    }
+  ],
+  "international": [
+    {
+      "title": "India Tops Global Remittance Inflows at $137 Billion: UN",
+      "summary": "According to data released by the United Nations, India recorded over $137 billion in foreign remittances in 2024, maintaining its position as the top global recipient."
+    },
+    {
+      "title": "CNN Founder Ted Turner Passes Away at 87",
+      "summary": "Ted Turner, the pioneering American media mogul who founded CNN and created the world's first 24-hour news channel, passed away at the age of 87."
+    },
+    {
+      "title": "Vietnam President To Lam Visits India for Bilateral Summit",
+      "summary": "President of Vietnam To Lam received a ceremonial welcome at Rashtrapati Bhavan and met Prime Minister Narendra Modi to elevate trade and strategic partnership ties."
+    }
+  ],
+  "economy": [
+    {
+      "title": "12 Indian Businesses Commit $1.1 Billion Investment in the US",
+      "summary": "A group of 12 Indian corporate enterprises has committed to investing a combined $1.1 billion into US manufacturing and tech sectors."
+    },
+    {
+      "title": "S&P Global Emphasizes Need for Energy Storage Policy in India",
+      "summary": "Credit rating agency S&P Global highlighted that India requires a formal energy storage framework to protect its economy against global fuel supply shocks."
+    },
+    {
+      "title": "RBI Retains Benchmark Interest Rates, Adjusts Growth Outlook",
+      "summary": "The Reserve Bank of India (RBI) decided to maintain key policy interest rates unchanged while adjusting its national GDP growth forecast."
+    }
+  ],
+  "science": [
+    {
+      "title": "India and Japan Partner on Quantum Tech and Health Research",
+      "summary": "India and Japan have signed bilateral agreements aimed at advancing joint research and development in quantum computing and advanced healthcare technology."
+    },
+    {
+      "title": "OpenAI Unveils GPT-Rosalind for Biomedical Research",
+      "summary": "OpenAI released GPT-Rosalind, a specialized artificial intelligence model engineered to accelerate biomedical discovery and early-stage drug development."
+    },
+    {
+      "title": "Government Launches Unified Swasth Bharat Portal",
+      "summary": "The Ministry of Health launched the Swasth Bharat Portal to integrate digital health services and facilitate central access to medical infrastructure."
+    }
+  ],
+  "environment": [
+    {
+      "title": "India to Host International Big Cat Alliance (IBCA) Summit in June 2026",
+      "summary": "New Delhi will host the International Big Cat Alliance (IBCA) Summit on June 1–2, 2026, bringing global leaders together to advance apex predator conservation."
+    },
+    {
+      "title": "Reports Warning of Record Super El Niño Event",
+      "summary": "Environmental researchers report an increasing likelihood of a century-defining Super El Niño event, threatening significant disruptions to global monsoon patterns."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Sports Ministry Reaffirms Stance on India-Pakistan Sporting Relations",
+      "summary": "The Ministry of Youth Affairs and Sports reiterated that Indian teams will not engage in bilateral series against Pakistan, though participation in multi-nation events remains allowed."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Dr. Krithi Karanth Named National Geographic Explorer of the Year",
+      "summary": "Indian conservation scientist Dr. Krithi Karanth was named the National Geographic Explorer of the Year for her impactful efforts in mitigating human-wildlife conflict."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India and Vietnam Discuss $629 Million BrahMos Deal",
+      "summary": "India and Vietnam held talks regarding a potential $629 million defense export contract for the BrahMos supersonic cruise missile system."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Shashi Shekhar Vempati Appointed CBFC Chairperson",
+      "summary": "Former Prasar Bharati Chief Executive Officer Shashi Shekhar Vempati has been appointed as the new Chairperson of the Central Board of Film Certification (CBFC)."
+    },
+    {
+      "title": "Centre Announces ₹18,000-Crore Relief Scheme for MSMEs and Airlines",
+      "summary": "The Union Government has introduced an ₹18,000-crore financial relief initiative to cushion Indian MSMEs and airline operators affected by ongoing West Asian conflicts."
+    },
+    {
+      "title": "Kumar Mangalam Birla Assumes Chairmanship of Vodafone Idea",
+      "summary": "Industrialist Kumar Mangalam Birla has resumed charge as the Chairman of Vodafone Idea following the departure of Ravinder Takkar."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "Theme Announced for Coops Day 2026",
+      "summary": "The official theme for the 2026 International Day of Cooperatives (Coops Day) was announced as 'Cooperative for a Peaceful World'."
+    },
+    {
+      "title": "International Day of Plant Health Awareness Drive",
+      "summary": "Global environmental agencies initiated international awareness drives highlighting plant health ahead of official observances."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "What timeline has the CDSCO mandated for applicants to answer queries on drug applications before they face automatic rejection?",
+      "options": [
+        "15 Days",
+        "30 Days",
+        "45 Days",
+        "60 Days"
+      ],
+      "answer_index": 1,
+      "explanation": "The Central Drugs Standard Control Organisation (CDSCO) mandated a strict 30-day window for drug applicants to respond to queries, after which unanswered applications are rejected."
+    },
+    {
+      "q": "Who among the following has been appointed as the Chairperson of the Central Board of Film Certification (CBFC)?",
+      "options": [
+        "Shashi Shekhar Vempati",
+        "Ravinder Takkar",
+        "Jitendra Singh",
+        "To Lam"
+      ],
+      "answer_index": 0,
+      "explanation": "Former Prasar Bharati CEO Shashi Shekhar Vempati has been appointed as the new Chairperson of the Central Board of Film Certification (CBFC)."
+    },
+    {
+      "q": "India recently held talks with Vietnam regarding a defense procurement contract worth $629 million for which missile system?",
+      "options": [
+        "Akash Missile System",
+        "BrahMos Supersonic Cruise Missile",
+        "Pralay Missile",
+        "Astra Missile System"
+      ],
+      "answer_index": 1,
+      "explanation": "India and Vietnam discussed a $629 million defense deal for the BrahMos supersonic cruise missile system."
+    },
+    {
+      "q": "Which Indian conservation scientist was named the National Geographic Explorer of the Year?",
+      "options": [
+        "Sunita Narain",
+        "Dr. Krithi Karanth",
+        "Vandana Shiva",
+        "Jadav Payeng"
+      ],
+      "answer_index": 1,
+      "explanation": "Indian conservation scientist Dr. Krithi Karanth was named National Geographic Explorer of the Year for her work in wildlife conservation."
+    },
+    {
+      "q": "What is the theme announced for International Day of Cooperatives (Coops Day 2026)?",
+      "options": [
+        "Cooperative for a Peaceful World",
+        "Cooperatives for Sustainable Development",
+        "Digital Transformation in Cooperatives",
+        "Empowering Youth through Cooperatives"
+      ],
+      "answer_index": 0,
+      "explanation": "The theme announced for Coops Day 2026 is 'Cooperative for a Peaceful World'."
+    }
+  ]
+}

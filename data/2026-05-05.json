@@ -1,0 +1,186 @@
+{
+  "date": "05 May 2026",
+  "pharma": [
+    {
+      "title": "NPPA Caps Prices Of 42 New Drug Formulations, Including Diabetes, BP And Women’s Health Medicines",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) has notified retail price caps for 42 new drug formulations targeting diabetes, hypertension, and women's health."
+    },
+    {
+      "title": "India’s SS Innovations performs 10,000-km robotic telesurgery between Australia and Indore",
+      "summary": "Medtech firm SS Innovations successfully conducted a historic 10,000-km remote robotic telesurgery connecting a medical team in Australia with a patient in Indore."
+    },
+    {
+      "title": "Lupin Receives U.S. FDA Approval for Glycerol Phenylbutyrate Oral Liquid",
+      "summary": "Pharmaceutical major Lupin has received final approval from the U.S. FDA for its Glycerol Phenylbutyrate Oral Liquid, indicated for managing urea cycle disorders."
+    },
+    {
+      "title": "India's crackdown on fentanyl precursor exports draws US praise amid global opioid crisis",
+      "summary": "The United States lauded India for enforcing strict measures against the illegal export of precursor chemicals used in the illicit production of fentanyl."
+    }
+  ],
+  "national": [
+    {
+      "title": "Kulveer Singh Yadav Appointed Government Nominee Director on Hindustan Copper Board",
+      "summary": "Kulveer Singh Yadav has been official appointed as a Government Nominee Director on the Board of Directors of Hindustan Copper Limited."
+    },
+    {
+      "title": "Indian esports scales up, but still awaits its 1983 Cricket World Cup moment",
+      "summary": "India's esports industry continues to expand its infrastructure and viewership, though industry experts note it still seeks a defining mainstream milestone."
+    }
+  ],
+  "international": [
+    {
+      "title": "India-UAE, India-U.S. among top 10 migration corridors in 2024: UN",
+      "summary": "A United Nations report identified the India–UAE and India–U.S. migration routes among the top ten international migration corridors worldwide in 2024."
+    },
+    {
+      "title": "US Links Hormuz 'Freedom' To India's LPG Needs",
+      "summary": "The United States reiterated the importance of unimpeded navigation in the Strait of Hormuz, linking energy security directly to India's essential LPG imports."
+    },
+    {
+      "title": "World News in Brief: Gulf tensions rise, Gaza health needs ‘staggering’, skills gap threat",
+      "summary": "UN News flagged escalated regional tensions across the Gulf alongside critical healthcare shortages in Gaza and growing global workforce skills deficits."
+    }
+  ],
+  "economy": [
+    {
+      "title": "4% inflation target remains appropriate for India: RBI Dy Governor Poonam Gupta",
+      "summary": "RBI officials reaffirmed that the 4% consumer price inflation target remains appropriate for maintaining medium-term macroeconomic stability in India."
+    },
+    {
+      "title": "Indian firms go big in America: Pour in $16.4 billion, create over 70,000 jobs across US",
+      "summary": "Indian companies have collectively invested $16.4 billion in the United States economy, creating over 70,000 jobs across multiple sectors."
+    },
+    {
+      "title": "How India-New Zealand FTA creates new global pathways for Indian talent",
+      "summary": "Deliberations on the India-New Zealand Free Trade Agreement highlight strategic economic provisions intended to enhance professional mobility and bilateral trade."
+    }
+  ],
+  "science": [
+    {
+      "title": "Health Ministry revises fire safety norms for hospitals: All you need to know",
+      "summary": "The Ministry of Health and Family Welfare released updated fire safety guidelines for clinical establishments to strengthen disaster management infrastructure."
+    },
+    {
+      "title": "India and Japan deepen cooperation in health",
+      "summary": "India and Japan agreed to broaden bilateral health sector cooperation, focusing on medical innovation, eldercare technology, and joint research."
+    },
+    {
+      "title": "Health Scheme Fraud Worth Crores Unearthed In Rajasthan, 2 Arrested",
+      "summary": "Law enforcement in Rajasthan arrested two individuals after uncovering a multi-crore fraud scheme targeting state-run health insurance programs."
+    }
+  ],
+  "environment": [
+    {
+      "title": "India shifts climate priorities as global uncertainty grows",
+      "summary": "India is strategic realignment its climate adaptation and energy policies to ensure economic resilience amidst global trade and environmental uncertainties."
+    },
+    {
+      "title": "The 7 greenest countries in the world leading the way in sustainability",
+      "summary": "A global environmental update evaluated leading green nations setting international benchmarks in renewable adoption and carbon reduction."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Indian sports wrap, May 5: India U-18 men’s and women’s hockey teams to play series against Australia in Bhopal",
+      "summary": "The Indian Under-18 men's and women's hockey teams are set to face Australia in an international youth hockey series hosted in Bhopal."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Lajpat Nagar Wins Best Delhi Metro Station Award, Najafgarh Best Metro Depot",
+      "summary": "Delhi Metro Rail Corporation declared Lajpat Nagar as the Best Metro Station and Najafgarh as the Best Metro Depot during its annual institutional awards."
+    },
+    {
+      "title": "Usha Mangeshkar, Hariharan, Dilip Joshi and many other celebs honoured at Newsmakers Achievers Awards",
+      "summary": "Veteran musicians Usha Mangeshkar and Hariharan, along with actor Dilip Joshi, were felicitated at the Newsmakers Achievers Awards."
+    }
+  ],
+  "defence": [
+    {
+      "title": "Bengaluru startup’s Drishti satellite boosts India’s defence edge",
+      "summary": "A Bengaluru-based space tech startup successfully deployed the 'Drishti' satellite, significantly enhancing India's space-based defence surveillance capabilities."
+    },
+    {
+      "title": "India’s Strike Power Crisis: Ageing Jaguar Fleet Faces Collapse as Super Su-30MKI Emerges as Replacement",
+      "summary": "India's defence leadership is focusing on the 'Super Su-30MKI' modernization plan to address operational gaps caused by the phased retirement of the Jaguar strike fighter fleet."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Middle East conflict: Govt launches Rs 18,100 crore credit guarantee scheme; MSMEs, airlines to get support",
+      "summary": "The Government launched an ₹18,100 crore credit guarantee scheme to assist domestic airlines and MSMEs facing financial headwinds due to geopolitical conflicts."
+    },
+    {
+      "title": "Kumar Mangalam Birla appointed as Non-Executive Chairman of Vodafone Idea",
+      "summary": "Kumar Mangalam Birla has returned to the board of telecom operator Vodafone Idea as its Non-Executive Chairman, replacing Ravinder Takkar."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "May 5th | World Portuguese Language Day Celebrated Globally",
+      "summary": "May 5 was observed worldwide as World Portuguese Language Day, acknowledging the global cultural role of the Portuguese language."
+    },
+    {
+      "title": "International Firefighters’ Day: National Fire Chief pays tribute",
+      "summary": "International Firefighters' Day was observed globally to honor the dedication and sacrifices of firefighters in public safety."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Indian medtech company SS Innovations performed a historic 10,000-km robotic telesurgery between Australia and which Indian city?",
+      "options": [
+        "Indore",
+        "Bengaluru",
+        "Hyderabad",
+        "Pune"
+      ],
+      "answer_index": 0,
+      "explanation": "SS Innovations performed a 10,000-km robotic telesurgery connecting a medical team located in Australia with a patient in Indore, Madhya Pradesh."
+    },
+    {
+      "q": "Which station was named the 'Best Delhi Metro Station' in the latest DMRC institutional awards?",
+      "options": [
+        "Rajiv Chowk",
+        "Lajpat Nagar",
+        "Kashmere Gate",
+        "Hauz Khas"
+      ],
+      "answer_index": 1,
+      "explanation": "Lajpat Nagar was named the Best Delhi Metro Station, while Najafgarh received the Best Metro Depot award."
+    },
+    {
+      "q": "Who has been appointed as the Non-Executive Chairman of Vodafone Idea in May 2026?",
+      "options": [
+        "Ravinder Takkar",
+        "Kumar Mangalam Birla",
+        "Kulveer Singh Yadav",
+        "Poonam Gupta"
+      ],
+      "answer_index": 1,
+      "explanation": "Kumar Mangalam Birla was appointed as the Non-Executive Chairman of Vodafone Idea, succeeding Ravinder Takkar."
+    },
+    {
+      "q": "World Portuguese Language Day is celebrated annually on which date?",
+      "options": [
+        "May 1",
+        "May 3",
+        "May 5",
+        "May 10"
+      ],
+      "answer_index": 2,
+      "explanation": "May 5 is officially recognized and celebrated globally as World Portuguese Language Day."
+    },
+    {
+      "q": "What is the name of the satellite launched by a Bengaluru-based startup that enhances India's space-based defence surveillance capabilities?",
+      "options": [
+        "Drishti",
+        "Cartosat-3",
+        "EOS-04",
+        "Astrosat"
+      ],
+      "answer_index": 0,
+      "explanation": "The 'Drishti' satellite, developed by a Bengaluru-based space startup, was launched to boost India's defence and surveillance intelligence."
+    }
+  ]
+}

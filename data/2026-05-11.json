@@ -1,0 +1,174 @@
+{
+  "date": "11 May 2026",
+  "pharma": [
+    {
+      "title": "Malaysia's NPRA Pilot Procedure",
+      "summary": "Malaysia’s National Pharmaceutical Regulatory Agency (NPRA) has initiated a pilot recognition procedure for pharmaceutical products approved by the US FDA and European Medicines Agency (EMA)."
+    },
+    {
+      "title": "Eli Lilly Halts India Obesity Campaign",
+      "summary": "Eli Lilly has paused its obesity awareness campaign in India following regulatory scrutiny as it seeks clearer guidelines regarding direct-to-consumer communications for prescription medicines."
+    },
+    {
+      "title": "MedVital Secures ₹18 Crore Funding",
+      "summary": "MedVital secured ₹18 crore in funding to scale up its advanced wound care and regenerative aesthetics product portfolio."
+    }
+  ],
+  "national": [
+    {
+      "title": "PM Urges Fuel Conservation via Remote Work",
+      "summary": "Prime Minister Narendra Modi encouraged work-from-home options to reduce national fuel consumption amid ongoing global energy strains."
+    },
+    {
+      "title": "National Technology Day Celebrated Across India",
+      "summary": "India observed National Technology Day on May 11, with leadership highlighting technological self-reliance and innovation towards the Viksit Bharat initiative."
+    }
+  ],
+  "international": [
+    {
+      "title": "PM Modi Diplomatic Engagements Ahead of UAE Visit",
+      "summary": "Prime Minister Narendra Modi scheduled meetings with Iran's Foreign Minister and other BRICS counterparts prior to his visit to the United Arab Emirates."
+    },
+    {
+      "title": "West Asia Energy Crisis Concerns Mount",
+      "summary": "Global concerns over long-term energy market stability escalated amid continuing disruptions and diplomatic hurdles in West Asia."
+    }
+  ],
+  "economy": [
+    {
+      "title": "India GDP Growth Forecasted at 7.2% for Q4 FY26",
+      "summary": "Projections estimate India's Q4 FY26 GDP growth at 7.2%, with the full-year FY27 economic growth rate pegged at 6.6%."
+    },
+    {
+      "title": "RBI Announces ₹50,000 Crore VRR Auction",
+      "summary": "The Reserve Bank of India announced a three-day Variable Rate Repo (VRR) auction to infuse ₹50,000 crore of liquidity into the banking system."
+    },
+    {
+      "title": "HSBC Projects Possible RBI Rate Hikes",
+      "summary": "An HSBC report indicated that the RBI may implement up to two interest rate hikes this financial year to counter El Niño and energy price shocks."
+    }
+  ],
+  "science": [
+    {
+      "title": "India Deploys 'Viral Shield' for Hantavirus",
+      "summary": "India deployed a nationwide 165-laboratory network called 'Viral Shield' to track and monitor Hantavirus surveillance."
+    },
+    {
+      "title": "Call for Common National Health Dataset for AI",
+      "summary": "NITI Aayog member V.K. Paul emphasized the necessity of a standardized national health dataset to develop medical artificial intelligence models."
+    }
+  ],
+  "environment": [
+    {
+      "title": "14 Nations Confirm Participation for Big Cat Alliance Summit",
+      "summary": "Fourteen countries confirmed their participation in the International Big Cat Alliance Summit 2026 hosted by India."
+    },
+    {
+      "title": "National Crime Records on Environmental Offences",
+      "summary": "Data indicates 57,670 environment and pollution-related offences were recorded in 2024, with the majority registered under anti-tobacco legislation."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Indian Sports Goods Sector Affected by West Asia Conflict",
+      "summary": "Indian sports goods manufacturers reported supply chain bottlenecks and commercial pressures due to ongoing conflict in West Asia."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "VinFast Named EV Manufacturer of the Year",
+      "summary": "VinFast was awarded 'EV Manufacturer of the Year' at the Times Drive Auto Summit & Awards 2026."
+    },
+    {
+      "title": "CEO Business Leadership Awards 2026 Held in Delhi",
+      "summary": "The CEO Business Leadership Awards 2026 took place in New Delhi to recognize executive achievements across business sectors."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India Highlights 'Divyastra' Missile System Capabilities",
+      "summary": "India highlighted its 'Divyastra' missile capability featuring Multiple Independently Targetable Re-entry Vehicle (MIRV) technology."
+    },
+    {
+      "title": "India and Australia Hold Bilateral Defence Discussions",
+      "summary": "Defense officials from Australia and India engaged in bilateral discussions to bolster strategic defense ties and regional maritime security."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "DPIIT to Launch 'Made in India' Branding Scheme",
+      "summary": "The Department for Promotion of Industry and Internal Trade (DPIIT) announced plans to launch a dedicated 'Made in India' branding initiative and identified 100 key products for manufacturing focus."
+    },
+    {
+      "title": "Annapurna Bhandar Scheme Rollout Announced",
+      "summary": "West Bengal announced the rollout of the 'Annapurna Bhandar' scheme starting June 1 to provide direct financial assistance to eligible women."
+    },
+    {
+      "title": "Niraj Bansal Appointed CEO-Ports at Adani Ports",
+      "summary": "Adani Ports appointed Niraj Bansal as CEO-Ports, taking over from Pranav Choudhary."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "National Technology Day Observed on May 11",
+      "summary": "India celebrates National Technology Day annually on May 11 to honor scientific achievements and mark the success of the 1998 Pokhran nuclear tests."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "What is the name of the 165-laboratory surveillance network deployed in India to monitor Hantavirus spread?",
+      "options": [
+        "Viral Shield",
+        "Bio Guard",
+        "Swasthya Grid",
+        "Arogya Kavach"
+      ],
+      "answer_index": 0,
+      "explanation": "India deployed a 165-laboratory network named 'Viral Shield' to strengthen surveillance and tracking of Hantavirus."
+    },
+    {
+      "q": "How much liquidity does the Reserve Bank of India plan to infuse into the system via its three-day VRR auction in May 2026?",
+      "options": [
+        "₹25,000 crore",
+        "₹50,000 crore",
+        "₹75,000 crore",
+        "₹1,00,000 crore"
+      ],
+      "answer_index": 1,
+      "explanation": "The RBI announced a three-day Variable Rate Repo (VRR) auction aiming to infuse ₹50,000 crore into the banking system."
+    },
+    {
+      "q": "Who has been appointed as the new CEO-Ports at Adani Ports?",
+      "options": [
+        "Pranav Choudhary",
+        "Niraj Bansal",
+        "V.K. Paul",
+        "Suvendu Adhikari"
+      ],
+      "answer_index": 1,
+      "explanation": "Niraj Bansal was appointed as CEO-Ports at Adani Ports, replacing Pranav Choudhary."
+    },
+    {
+      "q": "How many countries have confirmed participation in the International Big Cat Alliance Summit 2026 hosted by India?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "18"
+      ],
+      "answer_index": 2,
+      "explanation": "Fourteen countries have confirmed their participation for the International Big Cat Alliance Summit 2026 in India."
+    },
+    {
+      "q": "National Technology Day is observed in India on May 11 every year to commemorate which milestone?",
+      "options": [
+        "Launch of Aryabhata satellite",
+        "1998 Pokhran nuclear tests",
+        "Establishment of ISRO",
+        "Commissioning of INS Vikrant"
+      ],
+      "answer_index": 1,
+      "explanation": "National Technology Day is celebrated on May 11 to mark the success of the 1998 Pokhran nuclear tests."
+    }
+  ]
+}

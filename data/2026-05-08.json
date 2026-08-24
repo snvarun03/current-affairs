@@ -1,0 +1,198 @@
+{
+  "date": "08 May 2026",
+  "pharma": [
+    {
+      "title": "Drug regulator cracks down on delayed safety reporting by pharma companies",
+      "summary": "India's central drug regulator has initiated strict compliance actions against pharmaceutical companies delaying mandatory post-marketing safety and adverse drug reaction reporting. The crackdown aims to reinforce pharmacovigilance standards and patient safety across the domestic drug industry."
+    },
+    {
+      "title": "Guj chemists to join nationwide bandh against online sales",
+      "summary": "Chemist associations in Gujarat have pledged support for a nationwide strike to protest against the unregulated expansion of online pharmacies. Retail pharmacists cite public health risks and unfair competition as key reasons for opposing e-pharmacy platforms."
+    },
+    {
+      "title": "India's pharmaceutical exports show resilience and growth despite global headwinds",
+      "summary": "Indian pharmaceutical exports continued their growth trajectory, showing resilience against supply chain disruptions and geopolitical tensions. Strong global demand for generic formulations and active pharmaceutical ingredients (APIs) propelled export figures."
+    }
+  ],
+  "national": [
+    {
+      "title": "India pushes for inclusive migration, stronger anti-trafficking laws at UN General Assembly",
+      "summary": "At the United Nations General Assembly, India advocated for global frameworks ensuring safe, orderly, and inclusive migration governance. Indian representatives emphasized the need for stringent international cooperation against human trafficking networks."
+    },
+    {
+      "title": "Government rejects Canada spy agency allegations",
+      "summary": "The Ministry of External Affairs rejected allegations made by Canadian intelligence agencies, asserting that foreign interference is not part of India's state policy. Official statements reiterated India's commitment to diplomatic norms and international law."
+    },
+    {
+      "title": "Tech bodies oppose IT Rules amendments",
+      "summary": "Major technology industry associations expressed strong reservations against proposed amendments to the Information Technology Rules. Industry representatives raised concerns regarding compliance burdens, user privacy, and operational clarity for digital platforms."
+    }
+  ],
+  "international": [
+    {
+      "title": "Trump announces 3-day Russia-Ukraine ceasefire",
+      "summary": "US President Donald Trump announced a three-day ceasefire initiative between Russia and Ukraine aimed at facilitating diplomatic talks. The announcement comes amid ongoing efforts by international mediators to de-escalate hostilities."
+    },
+    {
+      "title": "US and Iran maintain ceasefire following Strait of Hormuz naval engagement",
+      "summary": "Despite a brief exchange of fire in the strategic Strait of Hormuz, the US administration confirmed that the broader US-Iran ceasefire framework remains intact. Diplomatic channels are actively engaged to prevent further escalation in maritime transit routes."
+    },
+    {
+      "title": "India mends diplomatic ties with Turkey after period of bilateral tension",
+      "summary": "India and Turkey have initiated diplomatic steps to restore bilateral ties following extended geopolitical friction over regional stance. Both nations expressed intent to deepen trade, cultural, and economic cooperation."
+    }
+  ],
+  "economy": [
+    {
+      "title": "India's April consumer inflation likely rose to 3.8% on higher fuel costs",
+      "summary": "Retail inflation in India for April is projected to rise moderately to 3.8% due to elevated transportation and energy costs. Analysts note that inflation remains well within the Reserve Bank of India's target comfort zone."
+    },
+    {
+      "title": "RBI holds policy rates steady amid evolving inflation trajectory",
+      "summary": "The Reserve Bank of India maintained status quo on key benchmark interest rates during its policy assessment. The monetary policy committee reiterated its focused stance on balancing growth while monitoring global supply shocks and domestic prices."
+    },
+    {
+      "title": "E-way bill generation eases in April following March year-end peak",
+      "summary": "Goods and Services Tax (GST) e-way bill generation experienced a routine seasonal decline in April after recording peak volumes in March. Economic experts attribute the trend to standard post-fiscal-year normalization in trade and logistics activity."
+    }
+  ],
+  "science": [
+    {
+      "title": "India and France expand cooperation in space, AI, and emerging technologies",
+      "summary": "India and France agreed to expand bilateral research partnerships across space exploration, artificial intelligence, and quantum technologies. Strategic joint initiatives will focus on dual-use technology deployment and academic exchange."
+    },
+    {
+      "title": "Health Ministry activates precautionary surveillance amid hantavirus reports",
+      "summary": "The Union Health Ministry launched proactive monitoring across states following isolated global reports of hantavirus cases. The Indian Council of Medical Research (ICMR) clarified that there is no immediate public health threat to the nation."
+    },
+    {
+      "title": "Scientists discover neuroprotective role of physical movement in brain cleansing",
+      "summary": "A groundbreaking scientific study revealed how physical exercise enhances the glymphatic system to eliminate metabolic waste from the brain. The findings offer valuable insights into preventing neurodegenerative conditions such as Alzheimer's disease."
+    }
+  ],
+  "environment": [
+    {
+      "title": "Record heatwave sweeps across South Asia causing severe climatic disruption",
+      "summary": "South Asian countries are facing severe heatwaves with daily temperatures reaching record highs, severely straining energy grids and public health systems. Climate scientists attribute the severity to persistent high-pressure atmospheric domes."
+    },
+    {
+      "title": "Looming 'super' El Niño threatens to make 2027 the hottest year recorded",
+      "summary": "Meteorological agencies warn that an intensifying El Niño ocean dynamic could drive global average temperatures to historic highs by 2027. The phenomenon poses severe risks to global agriculture, marine ecosystems, and weather stability."
+    },
+    {
+      "title": "Apple invests $10.6 million in Indian clean energy projects ahead of 2030 target",
+      "summary": "Technology giant Apple announced a $10.6 million investment in renewable energy infrastructure across India. The initiative supports the company's commitment to achieve carbon neutrality across its supply chain by 2030."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Shapath Bharadwaj and Manisha Keer lead Indian contingent at ISSF World Cup Shotgun",
+      "summary": "Indian shooters Shapath Bharadwaj and Manisha Keer posted strong performances on Opening Day of the ISSF World Cup Shotgun stage. Both athletes placed among the top contenders in their respective qualification rounds."
+    },
+    {
+      "title": "BCCI includes young prodigy Vaibhav Suryavanshi in national squad setup",
+      "summary": "The Board of Control for Cricket in India (BCCI) officially announced the inclusion of young batting talent Vaibhav Suryavanshi in the national cricket squad program following remarkable domestic performances."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Journalist Afshan Yasmeen honored with prestigious journalism award",
+      "summary": "Senior journalist Afshan Yasmeen from 'The Hindu' received recognition for excellence in social impact reporting and investigative journalism. The award highlights distinguished contributions to public interest journalism."
+    },
+    {
+      "title": "2026 Baeksang Arts Awards celebrate top international entertainment talents",
+      "summary": "The annual Baeksang Arts Awards announced its 2026 winners, honoring prominent actors Hyun Bin and Park Bo-Young along with top-rated film and television productions for artistic excellence."
+    }
+  ],
+  "defence": [
+    {
+      "title": "DRDO and IAF successfully conduct maiden flight trial of indigenous TARA glide weapon",
+      "summary": "Defence Research and Development Organisation (DRDO) and the Indian Air Force (IAF) successfully flight-tested the indigenous TARA precision glide weapon system. The successful trial enhances long-range standoff strike capabilities for India's air defense fleet."
+    },
+    {
+      "title": "Germany deepens defense industrial integration and technology transfer with India",
+      "summary": "Germany and India agreed to enhance bilateral defense manufacturing and technology integration, focusing on submarine technology and joint defense production under the 'Make in India' initiative."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Shashi Shekhar Vempati appointed as new Chairperson of Central Board of Film Certification",
+      "summary": "Former Prasar Bharati Chief Executive Officer Shashi Shekhar Vempati has been named the new Chairperson of the Central Board of Film Certification (CBFC), succeeding the outgoing leadership."
+    },
+    {
+      "title": "Economist Ashok Lahiri takes charge as Vice-Chairperson of NITI Aayog",
+      "summary": "Renowned economist Ashok Lahiri officially assumed charge as the Vice-Chairperson of NITI Aayog. His tenure is expected to focus on fiscal policy framing and sub-national development initiatives."
+    },
+    {
+      "title": "Government approves appointment of Dr. Ashok Kumar Panda as CMD of SAIL",
+      "summary": "The Appointments Committee of the Cabinet approved Dr. Ashok Kumar Panda as the Chairman and Managing Director (CMD) of Steel Authority of India Limited (SAIL), leading the PSU's expansion plans."
+    },
+    {
+      "title": "LIC reports Rs 17,600 crore disbursed under Pradhan Mantri Jeevan Jyoti Bima Yojana",
+      "summary": "Life Insurance Corporation of India (LIC) announced that over Rs 17,600 crore has been disbursed in claims under the PMJJBY scheme since its launch in 2015, providing vital financial security to lower-income households."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "World Ovarian Cancer Day observed globally on May 8",
+      "summary": "World Ovarian Cancer Day was commemorated on May 08, 2026, to spread global awareness about early detection, treatment options, and patient support initiatives for ovarian health."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Who among the following has been appointed as the new Chairperson of the Central Board of Film Certification (CBFC)?",
+      "options": [
+        "Shashi Shekhar Vempati",
+        "Ashok Kumar Panda",
+        "Ashok Lahiri",
+        "Prasoon Joshi"
+      ],
+      "answer_index": 0,
+      "explanation": "Former Prasar Bharati CEO Shashi Shekhar Vempati has been appointed as the new Chairperson of the Central Board of Film Certification (CBFC)."
+    },
+    {
+      "q": "What is the name of the indigenous precision glide weapon successfully flight-tested by DRDO and the Indian Air Force?",
+      "options": [
+        "ASTRA",
+        "TARA",
+        "RUDRAM",
+        "HELIΝΑ"
+      ],
+      "answer_index": 1,
+      "explanation": "Defence Research and Development Organisation (DRDO) and the Indian Air Force (IAF) successfully conducted the maiden trial of the indigenous TARA glide weapon system."
+    },
+    {
+      "q": "Who has taken charge as the new Vice-Chairperson of NITI Aayog?",
+      "options": [
+        "Suman Bery",
+        "Ashok Lahiri",
+        "Rajiv Kumar",
+        "Arvind Panagariya"
+      ],
+      "answer_index": 1,
+      "explanation": "Economist Ashok Lahiri has officially taken charge as the Vice-Chairperson of NITI Aayog."
+    },
+    {
+      "q": "Dr. Ashok Kumar Panda has been approved by the Government of India as the Chairman and Managing Director (CMD) of which Central Public Sector Enterprise?",
+      "options": [
+        "NTPC",
+        "ONGC",
+        "SAIL",
+        "BHEL"
+      ],
+      "answer_index": 2,
+      "explanation": "The Government of India approved the appointment of Dr. Ashok Kumar Panda as the Chairman and Managing Director of Steel Authority of India Limited (SAIL)."
+    },
+    {
+      "q": "Which international tech giant announced a $10.6 million investment in clean energy projects in India to meet its 2030 climate goals?",
+      "options": [
+        "Google",
+        "Microsoft",
+        "Apple",
+        "Amazon"
+      ],
+      "answer_index": 2,
+      "explanation": "Apple announced a $10.6 million investment in clean energy infrastructure in India to align with its 2030 carbon neutrality target."
+    }
+  ]
+}

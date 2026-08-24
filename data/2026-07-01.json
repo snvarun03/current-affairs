@@ -1,0 +1,194 @@
+{
+  "date": "01 Jul 2026",
+  "pharma": [
+    {
+      "title": "Centre Launches National Drug Registry for Digital Medicine Identification",
+      "summary": "The Union Government has launched the National Drug Registry to assign a unique digital identity to every medicine distributed in India. The initiative aims to enhance traceability, curb counterfeit drugs, and streamline supply chain management across the pharmaceutical sector."
+    },
+    {
+      "title": "Union Health Minister Chairs 16th CCHFW Conference",
+      "summary": "Union Minister J.P. Nadda chaired the 16th Conference of the Central Council of Health and Family Welfare (CCHFW). The summit highlighted India's public health advancements and strategic plans for healthcare infrastructure enhancement."
+    },
+    {
+      "title": "Maharashtra Cracks Down on Non-Compliant Blood Banks",
+      "summary": "State health authorities in Maharashtra launched a compliance drive targeting unsafe blood banks following reports of surging HIV cases and illegal plasma sales. The enforcement action aims to enforce strict quality control standards across blood storage units."
+    }
+  ],
+  "national": [
+    {
+      "title": "NITI Aayog to Formulate Policy on Critical Minerals from Mine Waste",
+      "summary": "NITI Aayog is preparing a national policy framework to recover critical minerals from mining waste and overburden. The strategy seeks to secure essential raw materials for green technology and reduce import dependencies."
+    },
+    {
+      "title": "Delhi Mandates Permanent Winter Work-From-Home Rule",
+      "summary": "The Delhi government approved a mandatory 50% work-from-home rule for public and private offices during winter months as part of its long-term anti-pollution strategy. The measure aims to curb seasonal smog spikes caused by vehicular emissions."
+    },
+    {
+      "title": "Centre Reaffirms E20 Ethanol Blending Strategy in Supreme Court",
+      "summary": "The Central Government submitted to the Supreme Court that its E20 fuel programme is a well-researched national strategy rather than a trial. The statement reinforces India's commitment to reducing fossil fuel imports and lowering carbon emissions."
+    }
+  ],
+  "international": [
+    {
+      "title": "India and Japan Strengthen Ties at 16th Annual Summit",
+      "summary": "India and Japan reaffirmed their commitment to enhancing bilateral strategic and economic partnerships during the 16th Annual Summit. Discussions focused on regional stability, technology transfer, and supply chain resilience in the Indo-Pacific."
+    },
+    {
+      "title": "Iran Highlights Strategic Cooperation with India",
+      "summary": "Iranian President Masoud Pezeshkian emphasized expanding diplomatic and economic relations with India. Key discussion points included strategic regional connectivity projects, notably the Chabahar Port development."
+    },
+    {
+      "title": "Focus on CPTPP Alignment for India's Economic Goals",
+      "summary": "Policy discussions highlighted the strategic benefits of India aligning with or joining the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP). The framework is viewed as a catalyst for boosting trade under the 'Viksit Bharat' economic model."
+    }
+  ],
+  "economy": [
+    {
+      "title": "RBI Releases Financial Stability Report 2026",
+      "summary": "The Reserve Bank of India published its Financial Stability Report (FSR) 2026, confirming the overall resilience of the Indian financial sector. However, the report flagged ongoing external risks from energy price volatility and geopolitical conflicts in West Asia."
+    },
+    {
+      "title": "Finance Minister Nirmala Sitharaman Begins France Visit",
+      "summary": "Union Finance Minister Nirmala Sitharaman commenced a four-day official visit to France aimed at deepening bilateral trade and economic ties. The visit focuses on strategic investments, green finance, and industrial collaboration."
+    },
+    {
+      "title": "Monsoon Trends Drive Macroeconomic and Inflation Projections",
+      "summary": "Economic analysts and global brokerages highlighted July monsoon performance as a critical determinant for India's agricultural output and headline inflation. Policy rate cut expectations remain tied to rural demand recovery and food price stability."
+    }
+  ],
+  "science": [
+    {
+      "title": "Anthropic Launches 'Claude Science' AI Workbench",
+      "summary": "AI research firm Anthropic introduced 'Claude Science', a specialized artificial intelligence workbench built for scientific data analysis, literature synthesis, and complex research tasks."
+    },
+    {
+      "title": "Indigenous EV and Infrastructure Cooling Technology Under Development",
+      "summary": "Indian researchers are developing a indigenous 'Make-in-India' cooling technology tailored for high-performance power electronics. The solution target applications in electric vehicles, AI data centers, and high-speed railway infrastructure."
+    },
+    {
+      "title": "India Integrates Child Health Digital Infrastructure",
+      "summary": "India has unified its child health monitoring systems to establish a single digital platform for tracking immunization and nutrition metrics. The system aims to optimize data accuracy and targeted delivery of maternal and child care services."
+    }
+  ],
+  "environment": [
+    {
+      "title": "World Bank Scraps Specific Climate Finance Targets",
+      "summary": "The World Bank announced the discontinuation of fixed climate finance targets following policy discussions and feedback from key global stakeholders including the United States."
+    },
+    {
+      "title": "Renewables Norway Calls for Strategic Energy Partnership with India",
+      "summary": "Renewables Norway CEO Bård Vegar Solhjell underscored India's pivotal position in global clean energy adoption, advocating for expanded Norway-India strategic partnerships in renewable technologies."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Vishvanath Suresh and Chandrika Selected to Lead Indian Boxing Teams",
+      "summary": "Boxers Vishvanath Suresh and Chandrika were chosen to lead the Indian contingent at the U-19 and U-23 Asian Boxing Championships. The tournament brings together top emerging boxing talent across Asia."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Sunil Mittal Honoured at USISPF Leadership Summit",
+      "summary": "Bharti Enterprises Chairman Sunil Bharti Mittal was presented with the Leadership Award at the USISPF Leadership Summit for his efforts in promoting global digital connectivity and US-India trade ties."
+    },
+    {
+      "title": "Prasoon Joshi Selected for Inaugural NBT Utsav Honour",
+      "summary": "Acclaimed writer and lyricist Prasoon Joshi was named the recipient of the inaugural honour at NBT Utsav 2026 in recognition of his contributions to Indian literature and public communication."
+    }
+  ],
+  "defence": [
+    {
+      "title": "Defence Acquisition Council to Review Proposals Exceeding Rs 1 Lakh Crore",
+      "summary": "The Defence Acquisition Council (DAC) scheduled a meeting to evaluate capital acquisition proposals valued at over Rs 1 lakh crore. The proposals focus on enhancing indigenous defense production and operational readiness."
+    },
+    {
+      "title": "Foreign Secretary Vikram Misri Granted Tenure Extension",
+      "summary": "The Central Government approved a one-year tenure extension for Foreign Secretary Vikram Misri, extending his service through July 2027 to ensure diplomatic continuity."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Union Home Minister Launches FCRA 2.0 Portal and e-OCI Card",
+      "summary": "Union Home Minister Amit Shah launched the FCRA 2.0 Portal along with the electronic Overseas Citizen of India (e-OCI) card system to advance digital governance and streamline compliance processing."
+    },
+    {
+      "title": "Air Marshal Tejinder Singh Takes Charge as Chief of Integrated Defence Staff",
+      "summary": "Air Marshal Tejinder Singh assumed charge as the Chief of Integrated Defence Staff (CISC) to the Chairman Chiefs of Staff Committee, strengthening joint tri-service planning and operations."
+    },
+    {
+      "title": "Former CEC Rajiv Kumar Appointed Chairman of HDFC Bank",
+      "summary": "Former Chief Election Commissioner Rajiv Kumar was appointed as the part-time Chairman of HDFC Bank following regulatory approvals."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "78th National Chartered Accountants Day Celebrated on July 1",
+      "summary": "India celebrated the 78th National Chartered Accountants Day on July 1 to commemorate the establishment of the Institute of Chartered Accountants of India (ICAI) in 1949."
+    },
+    {
+      "title": "National Doctors' Day Observed Across India",
+      "summary": "National Doctors' Day was observed nationwide on July 1 to honor the contributions of medical professionals. The day marks the birth and death anniversary of physician and former West Bengal Chief Minister Dr. Bidhan Chandra Roy."
+    },
+    {
+      "title": "World Bronchiectasis Day 2026 Observed Globally",
+      "summary": "Global respiratory health organizations observed World Bronchiectasis Day on July 1 to raise public awareness about bronchiectasis, a chronic respiratory condition causing irreversible airway enlargement."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which initiative was launched by the Union Government in July 2026 to assign a unique digital identity to every medicine in India?",
+      "options": [
+        "National Drug Registry",
+        "Ayushman Digital Pharmacy",
+        "PharmaTrace India",
+        "e-Aushadhi Portal"
+      ],
+      "answer_index": 0,
+      "explanation": "The Central Government launched the National Drug Registry to give every medicine a unique digital identity, enhancing supply chain transparency and preventing counterfeit drugs."
+    },
+    {
+      "q": "Former Chief Election Commissioner Rajiv Kumar was appointed to which role in July 2026?",
+      "options": [
+        "Part-Time Chairman of HDFC Bank",
+        "Foreign Secretary of India",
+        "CEO of NITI Aayog",
+        "Chairman of SEBI"
+      ],
+      "answer_index": 0,
+      "explanation": "Former CEC Rajiv Kumar was appointed as the part-time Chairman of HDFC Bank following corporate governance approvals."
+    },
+    {
+      "q": "National Doctors' Day, observed annually in India on July 1, commemorates the birth and death anniversary of which prominent figure?",
+      "options": [
+        "Dr. Bidhan Chandra Roy",
+        "Dr. M. S. Swaminathan",
+        "Dr. APJ Abdul Kalam",
+        "Dr. Sushila Nayyar"
+      ],
+      "answer_index": 0,
+      "explanation": "National Doctors' Day is celebrated on July 1 in honor of Dr. Bidhan Chandra Roy, a legendary physician, freedom fighter, and former Chief Minister of West Bengal."
+    },
+    {
+      "q": "Which digital portal was launched alongside the e-OCI card system by Home Minister Amit Shah in July 2026?",
+      "options": [
+        "FCRA 2.0 Portal",
+        "FEMA 3.0 Portal",
+        "e-Passport Portal",
+        "Digital India Citizen Portal"
+      ],
+      "answer_index": 0,
+      "explanation": "Union Home Minister Amit Shah launched the FCRA 2.0 Portal and e-OCI Card system to strengthen digital governance and simplify compliance for non-governmental organizations and overseas citizens."
+    },
+    {
+      "q": "The Appointments Committee of the Cabinet extended the tenure of Foreign Secretary Vikram Misri until which month and year?",
+      "options": [
+        "July 2027",
+        "December 2026",
+        "March 2028",
+        "January 2027"
+      ],
+      "answer_index": 0,
+      "explanation": "Foreign Secretary Vikram Misri received a one-year tenure extension from the Central Government, extending his service until July 2027."
+    }
+  ]
+}

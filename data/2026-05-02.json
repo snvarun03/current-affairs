@@ -1,0 +1,182 @@
+{
+  "date": "02 May 2026",
+  "pharma": [
+    {
+      "title": "Delhi HC Upholds Ban on Unapproved FDC Drugs, Backs DCGI Action",
+      "summary": "The Delhi High Court upheld the ban on unapproved Fixed Dose Combination (FDC) drugs, affirming the regulatory authority and enforcement actions taken by the Drugs Controller General of India (DCGI)."
+    }
+  ],
+  "national": [
+    {
+      "title": "Parent Care Leave Act, 2026 Proposed with Paid Leave Provisions",
+      "summary": "The Parent Care Leave Act, 2026 (Bill No. XXV of 2026) has been introduced, offering up to 45 days of paid leave with full pay and allowances for employees caring for elderly parents."
+    },
+    {
+      "title": "Union Government Defends Great Nicobar Island Infrastructure Project",
+      "summary": "The Central Government defended the strategic infrastructure and development project at Great Nicobar Island, highlighting its economic and defence importance."
+    },
+    {
+      "title": "Counter-Intelligence Identified as Key Priority for Union Government",
+      "summary": "Following major operations against Left-Wing Extremism, the Union Government has prioritized strengthening national counter-intelligence frameworks."
+    }
+  ],
+  "international": [
+    {
+      "title": "Political Turmoil in Nepal Leads to Parliament Suspension and Resignation",
+      "summary": "Nepal's Parliament was suspended amidst political instability, accompanied by the resignation of the Home Minister over a financial conduct investigation."
+    },
+    {
+      "title": "India and Ecuador Discuss Bilateral Trade Pact and Sectoral Cooperation",
+      "summary": "India and Ecuador held formal talks to discuss a comprehensive trade agreement while expanding collaboration across health, technology, and agriculture."
+    },
+    {
+      "title": "US Formally Announces Termination of Conflict with Iran",
+      "summary": "In an official letter to Congress, US President Donald Trump stated that military operations against Iran have been terminated as the ceasefire holds."
+    }
+  ],
+  "economy": [
+    {
+      "title": "Govt Appoints Rohit Jain as Deputy Governor of Reserve Bank of India",
+      "summary": "The Union Government has appointed Rohit Jain as the new Deputy Governor of the Reserve Bank of India (RBI) for a tenure of three years."
+    },
+    {
+      "title": "CEA Highlights Impact of Middle East Conflict on India's CAD",
+      "summary": "Chief Economic Adviser V. Anantha Nageswaran noted that while India maintains a 7% GDP growth trajectory, the Middle East crisis could widen the Current Account Deficit (CAD) above 2%."
+    },
+    {
+      "title": "RBI Deputy Governor Affirms Macroeconomic Stability",
+      "summary": "The Deputy Governor of the RBI assured that India's macroeconomic fundamentals remain robust with no immediate distress on the balance of payments."
+    }
+  ],
+  "science": [
+    {
+      "title": "Karnataka Launches India's First State-Led Space Tech Centre in Bengaluru",
+      "summary": "Karnataka established India's first state-led space technology facility in Bengaluru to foster innovation, research, and incubation for space startups."
+    },
+    {
+      "title": "Scientists Sound Alarm Over Declining Dragonfly Population in Western Ghats",
+      "summary": "Ecologists have raised severe environmental concerns regarding the declining population of dragonflies in India's biodiversity hotspot, the Western Ghats."
+    },
+    {
+      "title": "Study Finds Earth's Crust Fragmenting Under Cascadia Subduction Zone",
+      "summary": "A new geological study revealed that the Earth's tectonic crust is undergoing structural breakdown deep underneath the Cascadia region."
+    }
+  ],
+  "environment": [
+    {
+      "title": "NGT Warns Southern States Over Unutilised Clean Air Funds",
+      "summary": "The National Green Tribunal (NGT) issued a directive warning southern states of financial penalties if allocated funds under clean air programs remain unspent."
+    },
+    {
+      "title": "IMD Forecasts 'Above Normal' Rainfall across Parts of India",
+      "summary": "The India Meteorological Department (IMD) reported that above-normal precipitation will mitigate extreme heatwave conditions across several states."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Athletics Federation of India Signs Agreement with Russia",
+      "summary": "The Athletics Federation of India (AFI) signed a bilateral pact allowing Russian track and field athletes to participate in domestic Indian sports meets."
+    },
+    {
+      "title": "India Storms into Semifinals of Thomas Cup",
+      "summary": "The Indian men's badminton team secured a commanding victory to reach the semifinals of the Thomas Cup."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "INCOIS Awarded Subhas Chandra Bose Disaster Management Award 2025",
+      "summary": "The Indian National Centre for Ocean Information Services (INCOIS) was awarded the Subhas Chandra Bose Disaster Management Award 2025 for excellence in ocean disaster forecasting."
+    },
+    {
+      "title": "Dr. Faruk G. Patel Honoured with BRICS Award for Sustainable Energy",
+      "summary": "Dr. Faruk G. Patel received the prestigious BRICS Award recognizing his leadership in sustainable energy development."
+    }
+  ],
+  "defence": [
+    {
+      "title": "US Approves $488 Million F-16 Radar Upgrade Package for Pakistan",
+      "summary": "The United States approved a $488 million radar system upgrade for Pakistan's F-16 fleet, sparking regional strategic concerns in South Asia."
+    },
+    {
+      "title": "Defence Secretary Signals Rethink on Conventional Missile Strategy",
+      "summary": "India's Defence Secretary indicated that the nation is re-evaluating its conventional missile posture to adapt to modern global warfare dynamics."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Prasoon Joshi Appointed Chairman of Prasar Bharati",
+      "summary": "Renowned lyricist and communication expert Prasoon Joshi has been appointed as the new Chairman of India's public broadcaster, Prasar Bharati."
+    },
+    {
+      "title": "UP CM Adityanath Launches Labour Welfare Schemes",
+      "summary": "Uttar Pradesh Chief Minister Yogi Adityanath launched a series of welfare initiatives aimed at securing social security and financial aid for workers."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "Nagaland to Observe World Red Cross Day on May 8",
+      "summary": "Nagaland announced a state-wide 'Walk For Humanity' event scheduled for May 8 to commemorate World Red Cross Day."
+    },
+    {
+      "title": "International Workers' Day Observed Globally",
+      "summary": "International Workers' Day was celebrated worldwide on May 1, with Somalia highlighting skill development and decent employment initiatives."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Who among the following was appointed as the Chairman of Prasar Bharati in May 2026?",
+      "options": [
+        "Prasoon Joshi",
+        "Shashi Shekhar Vempati",
+        "Gaurav Dwivedi",
+        "Amitabh Kant"
+      ],
+      "answer_index": 0,
+      "explanation": "Renowned lyricist and communication expert Prasoon Joshi was officially appointed as the Chairman of Prasar Bharati."
+    },
+    {
+      "q": "Who has been appointed as the new Deputy Governor of the Reserve Bank of India (RBI) for a three-year term in May 2026?",
+      "options": [
+        "T. Rabi Sankar",
+        "Swaminathan J",
+        "Rohit Jain",
+        "Michael Patra"
+      ],
+      "answer_index": 2,
+      "explanation": "The Central Government named Rohit Jain as the new Deputy Governor of the Reserve Bank of India for a three-year term."
+    },
+    {
+      "q": "Which Indian state established the country's first state-led space technology centre in May 2026?",
+      "options": [
+        "Telangana",
+        "Karnataka",
+        "Tamil Nadu",
+        "Gujarat"
+      ],
+      "answer_index": 1,
+      "explanation": "Karnataka launched India's first state-led space technology centre in Bengaluru to promote innovation and space-tech startups."
+    },
+    {
+      "q": "Which organization won the Subhas Chandra Bose Disaster Management Award 2025?",
+      "options": [
+        "National Disaster Response Force (NDRF)",
+        "Indian National Centre for Ocean Information Services (INCOIS)",
+        "Indian Meteorological Department (IMD)",
+        "Defence Research and Development Organisation (DRDO)"
+      ],
+      "answer_index": 1,
+      "explanation": "INCOIS was awarded the Subhas Chandra Bose Disaster Management Award 2025 for its contributions to ocean hazard warnings and management."
+    },
+    {
+      "q": "The Delhi High Court upheld regulatory action taken by the DCGI regarding a ban on which category of pharmaceutical products?",
+      "options": [
+        "Unapproved Fixed Dose Combination (FDC) drugs",
+        "Over-the-counter NSAIDs",
+        "Imported biological vaccines",
+        "Generic antibiotic formulations"
+      ],
+      "answer_index": 0,
+      "explanation": "The Delhi High Court backed the DCGI's regulatory ban on unapproved Fixed Dose Combination (FDC) drugs."
+    }
+  ]
+}

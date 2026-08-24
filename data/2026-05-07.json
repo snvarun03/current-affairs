@@ -1,0 +1,182 @@
+{
+  "date": "07 May 2026",
+  "pharma": [
+    {
+      "title": "CDSCO to reject long-pending online applications after three reminders",
+      "summary": "The Central Drugs Standard Control Organisation (CDSCO) announced that long-pending online regulatory applications will be rejected if applicants fail to respond after receiving three reminders."
+    },
+    {
+      "title": "Venus Remedies Antibiotic Approved in Argentina",
+      "summary": "Indian pharmaceutical firm Venus Remedies secured regulatory approval in Argentina for its essential antibiotic product, expanding its Latin American presence."
+    },
+    {
+      "title": "IPA urges Union health minister to withdraw new DCGI recruitment rules",
+      "summary": "The Indian Pharmaceutical Association (IPA) urged the Union Health Minister to withdraw the newly framed recruitment rules for the Drugs Controller General of India (DCGI), citing statutory non-compliance."
+    },
+    {
+      "title": "GIMS Launches Uttar Pradesh’s First MEDTECH Regulatory Clinic",
+      "summary": "The Government Institute of Medical Sciences (GIMS) launched Uttar Pradesh's first MEDTECH Regulatory Clinic to provide regulatory support and guidance to healthcare startups."
+    }
+  ],
+  "national": [
+    {
+      "title": "Repatriation of illegal Bangladeshis is a core issue: MEA",
+      "summary": "India's Ministry of External Affairs affirmed that the repatriation of illegal Bangladeshi migrants remains a core bilateral priority following remarks from Dhaka regarding push-ins."
+    },
+    {
+      "title": "Govt's E85, E100 push tests ethanol supply and storage limits",
+      "summary": "The central government's policy push toward higher ethanol fuel blends such as E85 and E100 is putting strain on the country's current supply chain and storage infrastructure."
+    }
+  ],
+  "international": [
+    {
+      "title": "India, Vietnam elevate ties to enhanced comprehensive strategic partnership",
+      "summary": "India and Vietnam officially upgraded their bilateral relation to an Enhanced Comprehensive Strategic Partnership and signed 13 key cooperation agreements across multiple sectors."
+    },
+    {
+      "title": "Rubio to visit India for bilateral talks ahead of Quad meeting",
+      "summary": "US diplomatic representatives confirmed an official visit to India for high-level bilateral talks ahead of the Quad Foreign Ministers' meeting scheduled for late May."
+    },
+    {
+      "title": "WHO response to hantavirus cases linked to cruise ship",
+      "summary": "The World Health Organization monitored and released guidance following reported cases of hantavirus infection linked to passengers on a cruise ship."
+    }
+  ],
+  "economy": [
+    {
+      "title": "States’ GDP calculation revamped: Govt issues uniform GSDP norms",
+      "summary": "The Union Government issued updated uniform Gross State Domestic Product (GSDP) calculation guidelines for states, fixing 2022-23 as the new base year."
+    },
+    {
+      "title": "Apple, CleanMax partner on India green push",
+      "summary": "Apple partnered with renewable energy developer CleanMax to expand clean energy projects and advance green manufacturing operations across India."
+    },
+    {
+      "title": "RBI likely to hold rates in June, says HSBC Chief India Economist",
+      "summary": "Analysts at HSBC projected that the Reserve Bank of India will likely maintain policy rates unchanged during its upcoming June Monetary Policy Committee meeting."
+    }
+  ],
+  "science": [
+    {
+      "title": "India and Japan sign quantum technology and healthcare cooperation agreements",
+      "summary": "India and Japan exchanged official memorandums of understanding to deepen bilateral cooperation in quantum technology, frontier technologies, and medical devices."
+    },
+    {
+      "title": "Google launches Fitbit Air wrist strap for AI health tracking",
+      "summary": "Google introduced Fitbit Air, a health tracking wrist strap that utilizes artificial intelligence to monitor personal health metrics."
+    }
+  ],
+  "environment": [
+    {
+      "title": "Supreme Court empowers District Collectors to enforce Solid Waste Management Rules",
+      "summary": "The Supreme Court of India issued directions empowering District Collectors to strictly enforce the Solid Waste Management Rules within their local jurisdictions."
+    },
+    {
+      "title": "Telangana prepares for heatwave amid Super El Nino risks",
+      "summary": "State authorities in Telangana initiated heatwave preparedness plans to mitigate health and urban climate risks driven by shifting weather patterns and Super El Nino concerns."
+    }
+  ],
+  "sports": [
+    {
+      "title": "U-17 Indian girls confirm 12 medals at Asian Boxing Championships",
+      "summary": "India's Under-17 women's boxing squad secured 12 medals at the Asian Boxing U-15 & U-17 Championships."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Two Indian Women Honoured With 'Green Oscars' For Conservation",
+      "summary": "Two Indian female conservationists were awarded the prestigious Whitley Awards, popularly known as the 'Green Oscars', recognizing their grassroots wildlife protection efforts."
+    },
+    {
+      "title": "e4m NEXT-AI Awards launched to honour AI-powered marketing innovations",
+      "summary": "Exchange4Media launched the e4m NEXT-AI Awards to celebrate and acknowledge innovative artificial intelligence applications in marketing."
+    },
+    {
+      "title": "Century-old Indian family business wins Erth Dubai award",
+      "summary": "A long-established Indian family enterprise was honored with the prestigious Erth Dubai award for enterprise sustainability and heritage."
+    }
+  ],
+  "defence": [
+    {
+      "title": "Dutch frigate to join Indian Navy for military exercise",
+      "summary": "A Royal Netherlands Navy frigate arrived in Indian waters to participate in a joint naval military exercise with the Indian Navy."
+    },
+    {
+      "title": "India marks one year after Operation Sindoor",
+      "summary": "Defence analysts reviewed the operational and strategic shifts in India's war doctrine and defense readiness one year after the execution of Operation Sindoor."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Centre launches scheme for free health check-ups for workers",
+      "summary": "The Union Government launched a national scheme to offer free routine health check-ups for formal and industrial workers."
+    },
+    {
+      "title": "Shashi Shekhar Vempati appointed CBFC Chairman",
+      "summary": "The Ministry of Information and Broadcasting appointed former Prasar Bharati CEO Shashi Shekhar Vempati as the new Chairperson of the Central Board of Film Certification (CBFC)."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "World Athletics Day 2026 Observed on May 07",
+      "summary": "World Athletics Day 2026 was celebrated on May 7 with themes centered on breaking barriers, promoting physical activity, and strengthening global unity through sports."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which Indian institute launched Uttar Pradesh's first MEDTECH Regulatory Clinic in May 2026 to support healthcare startups?",
+      "options": [
+        "Government Institute of Medical Sciences (GIMS)",
+        "AIIMS Gorakhpur",
+        "Sanjay Gandhi Postgraduate Institute of Medical Sciences",
+        "King George's Medical University"
+      ],
+      "answer_index": 0,
+      "explanation": "The Government Institute of Medical Sciences (GIMS) launched Uttar Pradesh's first MEDTECH Regulatory Clinic to guide and support medical device startups."
+    },
+    {
+      "q": "What is the new base year prescribed by the Union Government under the revised uniform GSDP calculation norms for Indian states?",
+      "options": [
+        "2011-12",
+        "2017-18",
+        "2020-21",
+        "2022-23"
+      ],
+      "answer_index": 3,
+      "explanation": "The central government issued uniform Gross State Domestic Product (GSDP) calculation guidelines for states using 2022-23 as the new base year."
+    },
+    {
+      "q": "Who was appointed as the new Chairperson of the Central Board of Film Certification (CBFC) in May 2026?",
+      "options": [
+        "Prasoon Joshi",
+        "Shashi Shekhar Vempati",
+        "Shekhar Kapur",
+        "Vani Tripathi"
+      ],
+      "answer_index": 1,
+      "explanation": "Former Prasar Bharati CEO Shashi Shekhar Vempati was appointed as the Chairperson of the CBFC by the Ministry of Information and Broadcasting."
+    },
+    {
+      "q": "Naval forces of which country joined the Indian Navy for joint maritime military exercises on May 07, 2026?",
+      "options": [
+        "France",
+        "Netherlands",
+        "Japan",
+        "Australia"
+      ],
+      "answer_index": 1,
+      "explanation": "A Royal Netherlands Navy (Dutch) frigate joined the Indian Navy for joint maritime exercises."
+    },
+    {
+      "q": "World Athletics Day 2026 was officially observed on which date?",
+      "options": [
+        "May 01",
+        "May 03",
+        "May 07",
+        "May 10"
+      ],
+      "answer_index": 2,
+      "explanation": "World Athletics Day 2026 was observed on May 07, focusing on global unity and sports participation."
+    }
+  ]
+}

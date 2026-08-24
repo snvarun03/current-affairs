@@ -1,0 +1,198 @@
+{
+  "date": "12 May 2026",
+  "pharma": [
+    {
+      "title": "Sildenafil, Tadalafil Under Scanner as DCGI Launches Crackdown on Illegal Sexual Enhancement Drug Sales",
+      "summary": "The Drugs Controller General of India (DCGI) has launched a nationwide crackdown on the unauthorized and illegal sale of sexual enhancement drugs, specifically targeting Sildenafil and Tadalafil."
+    },
+    {
+      "title": "Eli Lilly pauses obesity awareness campaign in India after drug regulator warning",
+      "summary": "Pharma giant Eli Lilly has halted its obesity awareness campaign in India following regulatory warnings and scrutiny from the Indian drugs regulator regarding direct-to-consumer promotion rules."
+    },
+    {
+      "title": "Over 12 lakh chemists call nationwide strike on May 20",
+      "summary": "More than 1.2 million chemists across India have announced a nationwide strike scheduled for May 20 to highlight ongoing grievances and policy issues affecting retail pharmacy operations."
+    },
+    {
+      "title": "Parexel acquires Vitrana to enhance AI tools",
+      "summary": "Global clinical research organization Parexel has acquired Vitrana to integrate advanced artificial intelligence capabilities into its clinical trial and drug development services."
+    }
+  ],
+  "national": [
+    {
+      "title": "PM Modi reiterates call for work from home, avoid buying gold 'in time of global crisis'",
+      "summary": "Prime Minister Narendra Modi renewed appeals encouraging corporate work-from-home models and advising citizens to refrain from panic gold buying during ongoing global geopolitical crises."
+    },
+    {
+      "title": "Four-day work week with 3 days off? Conditions under new labour codes",
+      "summary": "Discussions surrounding the new labor codes highlight guidelines allowing a flexible four-day work week with three days off, provided workers meet required weekly hour thresholds."
+    },
+    {
+      "title": "An Unusual Heat Wave Strains the World’s Most Populous Country",
+      "summary": "An intense and unseasonal heatwave has gripped large parts of India, placing extreme pressure on public health systems, energy grids, and agricultural sectors."
+    }
+  ],
+  "international": [
+    {
+      "title": "UAE’s secret attack on Iran risks drawing Gulf states into the war",
+      "summary": "Reports of covert military action involving the UAE against Iranian targets have heightened regional tension, risking broader conflict across the Gulf region."
+    },
+    {
+      "title": "Some 200 Ethiopians sentenced to death in Saudi Arabia",
+      "summary": "Saudi Arabian courts have sentenced approximately 200 Ethiopian nationals to death, raising major human rights concerns internationally."
+    },
+    {
+      "title": "Can't intimidate us with barbed wire, says Bangladesh, puts border force on alert",
+      "summary": "Bangladesh has placed its border security forces on high alert, issuing statements opposing unilateral border fencing and barbed wire installations."
+    }
+  ],
+  "economy": [
+    {
+      "title": "'Permitted unless prohibited': NITI Aayog's next-gen reforms guidebook",
+      "summary": "NITI Aayog has unveiled a regulatory framework guidebook titled 'Permitted unless prohibited' aimed at simplifying compliance and fostering business innovation."
+    },
+    {
+      "title": "‘No more business as usual’: Piyush Goyal’s wake-up call to Indian industry amid Gulf crisis",
+      "summary": "Commerce Minister Piyush Goyal urged Indian exporters and industries to adapt to shifting trade dynamics and supply chain disruptions caused by escalating tension in the Gulf region."
+    },
+    {
+      "title": "Indian economy has continued to show resilience amid global challenges, says Commerce Minister",
+      "summary": "Official statements from the Commerce Ministry reaffirmed that India's economic growth momentum remains resilient despite macroeconomic headwinds and global conflict."
+    }
+  ],
+  "science": [
+    {
+      "title": "CSIR transfers 13 indigenous building technologies to industry",
+      "summary": "The Council of Scientific and Industrial Research (CSIR) officially transferred 13 low-cost, eco-friendly indigenous construction technologies to private industry partners."
+    },
+    {
+      "title": "C-CAMP teams up with global tech firm to make drug testing more accessible",
+      "summary": "The Centre for Cellular and Molecular Platforms (C-CAMP) partnered with an international technology firm to streamline and expand access to advanced bio-testing platforms."
+    },
+    {
+      "title": "India unveils digital health aggregator platform",
+      "summary": "India launched a unified digital health aggregator platform designed to integrate public health databases, tele-consultation services, and digital record repositories."
+    }
+  ],
+  "environment": [
+    {
+      "title": "IMD launches two AI-enabled advanced weather forecast systems",
+      "summary": "The India Meteorological Department (IMD) introduced two artificial intelligence-driven weather forecasting systems to enhance micro-level climate and severe weather predictions."
+    },
+    {
+      "title": "The strategic imperative of India’s climate finance taxonomy",
+      "summary": "Experts highlighted the urgency of establishing an official green taxonomy in India to standardise sustainable investments and attract international climate finance."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Indian sports wrap: Lakshay enters gold-medal bout at Asian Boxing U-17 Championships",
+      "summary": "Indian boxer Lakshay advanced to the final gold-medal bout at the Asian Boxing U-17 Championships following a dominant semifinal victory."
+    },
+    {
+      "title": "IBL isn’t chasing cricket, it's eyeing 'sporting entertainment' for next generation of fans",
+      "summary": "The Indian Bowling League (IBL) outlined its long-term strategy to build a distinct non-cricket sports entertainment franchise model tailored for youth audiences."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "President Murmu honours nursing personnel with National Florence Nightingale Awards 2026",
+      "summary": "President Droupadi Murmu presented the National Florence Nightingale Awards 2026 to exemplary nursing professionals for their selfless service and healthcare contribution."
+    },
+    {
+      "title": "NLCIL CMD Prasanna Kumar Motupalli Wins Leadership Excellence Award 2025-26",
+      "summary": "Prasanna Kumar Motupalli, Chairman and Managing Director of NLC India Limited, was awarded the prestigious Leadership Excellence Award 2025-26 for operational excellence in the public sector."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India to project power across Indo-Pacific and beyond by 2047: Defence Secy",
+      "summary": "The Defence Secretary highlighted India's strategic roadmap aimed at developing long-range naval and aerospace capabilities to project defense capabilities across the Indo-Pacific region by 2047."
+    },
+    {
+      "title": "India ready to counter any cross-border misadventure: Navy chief designate",
+      "summary": "India's Navy Chief Designate reiterated maritime security readiness to protect sovereign sea lanes and deter aggression along critical oceanic borders."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Indian Army launches community radio 'Sangam 88.8' to empower youth in Rajouri border area",
+      "summary": "The Indian Army established a community radio station named 'Sangam 88.8' in the Rajouri sector of Jammu and Kashmir to inform and empower local border youth."
+    },
+    {
+      "title": "Meghalaya to launch four flagship skilling schemes at Skillerate 2026 in Shillong",
+      "summary": "The Meghalaya state government announced four new flagship youth skill development programs scheduled to launch during the Skillerate 2026 summit in Shillong."
+    },
+    {
+      "title": "Sameep Shastri set to take over as Chairman of BRICS Chamber",
+      "summary": "Sameep Shastri has been appointed as the incoming Chairman of the BRICS Chamber of Commerce and Industry to lead trade expansion initiatives across member nations."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "May 12, 2026: International Nurses Day observed globally",
+      "summary": "International Nurses Day was commemorated worldwide on May 12, marking the birth anniversary of Florence Nightingale and recognizing the contributions of nurses."
+    },
+    {
+      "title": "International ME/CFS Awareness Day observed on May 12",
+      "summary": "May 12 was observed as International Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) Awareness Day to promote medical research and public understanding."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which global pharmaceutical company paused its obesity awareness campaign in India following scrutiny by the national drug regulator in May 2026?",
+      "options": [
+        "Eli Lilly",
+        "Pfizer",
+        "Novartis",
+        "AstraZeneca"
+      ],
+      "answer_index": 0,
+      "explanation": "Eli Lilly paused its obesity awareness campaign in India after receiving regulatory scrutiny and warnings regarding compliance with pharmaceutical marketing rules."
+    },
+    {
+      "q": "What is the name of the regulatory reforms guidebook recently released by NITI Aayog?",
+      "options": [
+        "Prohibited Unless Permitted",
+        "Permitted Unless Prohibited",
+        "Minimum Government Maximum Regulation",
+        "Ease of Doing Business 2.0"
+      ],
+      "answer_index": 1,
+      "explanation": "NITI Aayog launched its next-generation reform guidebook titled 'Permitted unless prohibited' to reduce regulatory friction for businesses."
+    },
+    {
+      "q": "Which organization transferred 13 indigenous building technologies to industry partners in May 2026?",
+      "options": [
+        "DRDO",
+        "ISRO",
+        "CSIR",
+        "ICAR"
+      ],
+      "answer_index": 2,
+      "explanation": "The Council of Scientific and Industrial Research (CSIR) transferred 13 indigenous construction and building technologies to commercial industry players."
+    },
+    {
+      "q": "The Indian Army launched the community radio station 'Sangam 88.8' to empower local youth in which region?",
+      "options": [
+        "Kupwara",
+        "Rajouri",
+        "Ladakh",
+        "Tawang"
+      ],
+      "answer_index": 1,
+      "explanation": "The Indian Army launched community radio 'Sangam 88.8' in the Rajouri border area of Jammu & Kashmir to engage and empower youth."
+    },
+    {
+      "q": "International Nurses Day is observed annually on which date?",
+      "options": [
+        "May 10",
+        "May 11",
+        "May 12",
+        "May 15"
+      ],
+      "answer_index": 2,
+      "explanation": "International Nurses Day is celebrated around the world every year on May 12, commemorating the birth anniversary of Florence Nightingale."
+    }
+  ]
+}

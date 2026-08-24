@@ -1,0 +1,202 @@
+{
+  "date": "14 May 2026",
+  "pharma": [
+    {
+      "title": "Dr. Reddy’s Laboratories Secures CDSCO Approval for Generic Oral Semaglutide in India",
+      "summary": "Dr. Reddy's Laboratories has obtained regulatory approval from the Central Drugs Standard Control Organisation (CDSCO) to introduce generic oral semaglutide in India."
+    },
+    {
+      "title": "Roche brings world’s 1st under-the-skin lung cancer drug to India",
+      "summary": "Pharmaceutical major Roche introduced the world's first subcutaneous lung cancer injection to India, significantly reducing drug administration time to a 7-minute shot."
+    },
+    {
+      "title": "NPPA slaps Rs 4.92 crore demand notice on Natco Pharma for overcharging",
+      "summary": "The National Pharmaceutical Pricing Authority (NPPA) issued a demand notice of ₹4.92 crore to Natco Pharma for overcharging on regulated pharmaceutical products."
+    },
+    {
+      "title": "Indian Opioid Exports To Africa Raise Regulatory Concerns For New Delhi",
+      "summary": "Concerns over Indian synthetic drug and opioid exports reaching West African markets have prompted regulatory review and heightened vigilance from New Delhi."
+    },
+    {
+      "title": "12.4 Lakh Chemists Call May 20 Shutdown Against E-Pharmacies",
+      "summary": "Over 12.4 lakh retail chemists across India announced a nationwide shutdown set for May 20 to protest against the operations of e-pharmacy platforms."
+    }
+  ],
+  "national": [
+    {
+      "title": "BRICS FMs Meet In Delhi Under India Chairship",
+      "summary": "India hosted the BRICS Foreign Ministers' Meeting in New Delhi under its chairship to address global security, West Asian stability, and intra-bloc cooperation."
+    },
+    {
+      "title": "In first step after PM Modi's appeal, government raises gold, silver duty to 15%",
+      "summary": "Following a national appeal to curb non-essential imports, the Union Government increased the import duty on gold and silver to 15%."
+    },
+    {
+      "title": "Delhi makes 2-day work from home mandatory for government employees",
+      "summary": "The Delhi government mandated a two-day work-from-home rule for state government employees to support fuel conservation and reduce vehicular emissions."
+    },
+    {
+      "title": "India to invest over $20 bn in offshore energy mapping: Hardeep Singh Puri",
+      "summary": "Union Minister Hardeep Singh Puri announced India's plan to invest more than $20 billion in offshore energy mapping to boost domestic energy production."
+    }
+  ],
+  "international": [
+    {
+      "title": "Iran, Trade, Taiwan On Cards As Trump Set To Meet Xi Jinping In Beijing",
+      "summary": "US President Donald Trump met Chinese President Xi Jinping in Beijing for bilateral discussions focused on international trade, Taiwan, and the ongoing Iran conflict."
+    },
+    {
+      "title": "BRICS Foreign Ministers meet in India as Iran war, oil prices, internal divisions test bloc’s unity",
+      "summary": "BRICS Foreign Ministers deliberated in India on rising crude oil prices and West Asian conflict dynamics, while Minister EAM S. Jaishankar reaffirmed India's support for a two-state solution for Palestine."
+    },
+    {
+      "title": "COVID's impact lingers, influencing world's response to hantavirus",
+      "summary": "Global public health bodies are utilizing response protocols established during the COVID-19 pandemic to manage emerging viral threats like hantavirus."
+    }
+  ],
+  "economy": [
+    {
+      "title": "IMF warns Iran war disruptions are pushing global economy towards ‘adverse’ scenario",
+      "summary": "The International Monetary Fund (IMF) warned that global economic growth faces severe downside risks due to supply disruptions and elevated energy prices caused by the Iran conflict."
+    },
+    {
+      "title": "RBI expected to hold rates in June despite rising inflation, H2 rate hike bets emerge",
+      "summary": "The Reserve Bank of India signaled potential fuel price revisions if oil prices stay elevated, while market analysts expect the central bank to keep benchmark repo rates unchanged in June."
+    },
+    {
+      "title": "Empowered Committee meets in Jammu to boost MSME sector",
+      "summary": "An Empowered Committee convened a meeting in Jammu to evaluate administrative and financial strategies aimed at boosting Micro, Small, and Medium Enterprises (MSMEs)."
+    }
+  ],
+  "science": [
+    {
+      "title": "RSC journals open to 18 million researchers through India’s ONOS scheme",
+      "summary": "Royal Society of Chemistry (RSC) academic journals have been made available to over 18 million Indian researchers under the One Nation One Subscription (ONOS) initiative."
+    },
+    {
+      "title": "AMED, DST, and ICMR sign Memorandum of Cooperation on research collaboration",
+      "summary": "India's Department of Science and Technology (DST) and Indian Council of Medical Research (ICMR) partnered with Japan's AMED to enhance joint medical research initiatives."
+    },
+    {
+      "title": "India Gets Its First Alzheimer’s Drug: Know All About Eli Lilly’s Lormalzi",
+      "summary": "India approved its first targeted drug for Alzheimer's disease, Lormalzi, developed by global pharmaceutical firm Eli Lilly."
+    }
+  ],
+  "environment": [
+    {
+      "title": "Union Ministry of Environment asks Maharashtra government to examine complaints",
+      "summary": "The Union Ministry of Environment, Forest and Climate Change directed the Maharashtra state government to investigate local environmental violation complaints."
+    },
+    {
+      "title": "Dust storms and lightning kill at least 96 people in northern India",
+      "summary": "Severe pre-monsoon severe weather events including high-velocity dust storms and lightning strikes resulted in at least 96 casualties across northern India."
+    }
+  ],
+  "sports": [
+    {
+      "title": "Premier League brings NEXTGEN coach initiative to India",
+      "summary": "The English Premier League introduced its NEXTGEN coaching development program to India to elevate grassroots football training standard."
+    },
+    {
+      "title": "Khalid Jamil Announces India’s Preliminary Squad for Unity Cup 2026",
+      "summary": "Indian national football team coach Khalid Jamil announced the preliminary squad selection for the upcoming Unity Cup 2026 tournament."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "Yellowings Wins Prestigious LEAPS 2025 Award",
+      "summary": "Logistics service provider Yellowings emerged as the sole Indian honouree in the Logistics Operations Service Providers category at the LEAPS 2025 Awards."
+    },
+    {
+      "title": "Taylor Swift and Sabrina Carpenter win top songwriting honour at BMI Awards",
+      "summary": "Popular artists Taylor Swift and Sabrina Carpenter were recognized with top songwriting honors at the annual BMI Pop Awards."
+    }
+  ],
+  "defence": [
+    {
+      "title": "UAE Eyeing Big Defence Pact And Stronger Security Ties With India",
+      "summary": "The United Arab Emirates is seeking to establish a comprehensive defence and security alliance with India amidst shifting geopolitical developments in West Asia."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Former RBI Deputy Governor R Gandhi appointed chairman of Sahamati",
+      "summary": "Former RBI Deputy Governor R. Gandhi was appointed as the Chairman of Sahamati, the collective self-regulatory organization for India's Account Aggregator network."
+    },
+    {
+      "title": "HDB Financial Services Appoints N Srinivasan Chairman",
+      "summary": "Non-banking financial company HDB Financial Services appointed N. Srinivasan as its new Chairman."
+    },
+    {
+      "title": "New Bharat e-Charge App Could Simplify EV Charging in India",
+      "summary": "The newly introduced 'Bharat e-Charge' mobile application aims to consolidate and streamline access to electric vehicle (EV) charging stations nationwide."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "World Pest Day theme announced: Defending health across borders",
+      "summary": "World Pest Day announced its focus area and global theme centered around safeguarding public health and disease vector prevention across international borders."
+    },
+    {
+      "title": "International Day of Plant Health Observed",
+      "summary": "The International Day of Plant Health was observed globally to raise awareness regarding plant protection, agricultural sustainability, and ecosystem safety."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Under which scheme are Royal Society of Chemistry (RSC) journals being made accessible to over 18 million researchers in India?",
+      "options": [
+        "PM-SHRI Scheme",
+        "One Nation One Subscription (ONOS) Scheme",
+        "IMPPRINT India Scheme",
+        "SPARC Scheme"
+      ],
+      "answer_index": 1,
+      "explanation": "Royal Society of Chemistry (RSC) journals were opened to over 18 million researchers in India through the government's One Nation One Subscription (ONOS) scheme."
+    },
+    {
+      "q": "Which pharmaceutical company recently obtained CDSCO approval for launching generic oral semaglutide in India?",
+      "options": [
+        "Sun Pharmaceutical Industries",
+        "Cipla Limited",
+        "Dr. Reddy’s Laboratories",
+        "Natco Pharma"
+      ],
+      "answer_index": 2,
+      "explanation": "Dr. Reddy’s Laboratories secured regulatory approval from the CDSCO for generic oral semaglutide in India."
+    },
+    {
+      "q": "Who among the following was appointed as the Chairman of Sahamati in May 2026?",
+      "options": [
+        "R. Gandhi",
+        "N. Srinivasan",
+        "Hardeep Singh Puri",
+        "Khalid Jamil"
+      ],
+      "answer_index": 0,
+      "explanation": "Former Reserve Bank of India Deputy Governor R. Gandhi was appointed as the Chairman of Sahamati."
+    },
+    {
+      "q": "In May 2026, the Indian government increased the import duty on gold and silver to what level?",
+      "options": [
+        "10%",
+        "12%",
+        "15%",
+        "20%"
+      ],
+      "answer_index": 2,
+      "explanation": "Following an appeal to reduce non-essential imports, the Indian government raised the import duty on gold and silver to 15%."
+    },
+    {
+      "q": "Which organization was recognized as India's sole honouree in the Logistics Operations Service Providers category at the LEAPS 2025 Awards?",
+      "options": [
+        "Blue Dart",
+        "Yellowings",
+        "Delhivery",
+        "Mahindra Logistics"
+      ],
+      "answer_index": 1,
+      "explanation": "Yellowings won the LEAPS 2025 Award as India's sole honouree in the Logistics Operations Service Providers category."
+    }
+  ]
+}
