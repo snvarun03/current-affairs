@@ -1,0 +1,206 @@
+{
+  "date": "24 Aug 2026",
+  "pharma": [
+    {
+      "title": "CDSCO to launch first phase of end-to-end digital drug regulatory platform within 18 months",
+      "summary": "The Central Drugs Standard Control Organization (CDSCO) plans to launch the first phase of an end-to-end digital drug regulatory platform within 18 months to streamline regulatory governance."
+    },
+    {
+      "title": "Intas gets CDSCO nod for breast cancer drug Trastuzumab Emtansine",
+      "summary": "Intas Pharmaceuticals has received regulatory approval from the CDSCO for Trastuzumab Emtansine, targeted at breast cancer treatment."
+    },
+    {
+      "title": "CDSCO proposes to ban 'Same Brand, Different Drug' practice",
+      "summary": "The CDSCO has proposed prohibiting the practice of using the same brand name for different drug formulations to prevent medication confusion and errors."
+    },
+    {
+      "title": "Eisai launches Alzheimer's drug Leqembi in India",
+      "summary": "Pharmaceutical firm Eisai has introduced its Alzheimer's disease drug, Leqembi, in the Indian market following CDSCO approval."
+    },
+    {
+      "title": "NPPA caps prices of 39 new medicines amid Parliamentary panel review",
+      "summary": "While NPPA capped the prices of 39 new drugs, a Parliamentary panel highlighted that around 82% of medicines in India remain outside direct price control and urged a framework review."
+    }
+  ],
+  "national": [
+    {
+      "title": "India celebrates National Panchayati Raj Day",
+      "summary": "National Panchayati Raj Day was celebrated across India to recognize and strengthen local self-governance institutes in rural areas."
+    },
+    {
+      "title": "PM Modi becomes longest-serving elected head of government in India",
+      "summary": "Prime Minister Narendra Modi achieved a historic milestone by becoming the longest-serving elected head of government in India."
+    },
+    {
+      "title": "Maharashtra announces AI Policy 2026",
+      "summary": "The Maharashtra government unveiled its AI Policy 2026 aimed at bolstering industrial growth, public service delivery, and state governance through artificial intelligence."
+    }
+  ],
+  "international": [
+    {
+      "title": "US-Canada trade talks collapse into tariff disputes",
+      "summary": "Bilateral trade negotiations between the US and Canada devolved following disagreements over trade benefits and tariff terms."
+    },
+    {
+      "title": "BRICS Foreign Ministers exchange views on global issues",
+      "summary": "Foreign Ministers of BRICS nations convened to hold discussions on key global political, economic, and regional developments."
+    },
+    {
+      "title": "Yomif Kejelcha breaks world half marathon record",
+      "summary": "Distance runner Yomif Kejelcha set a new world half marathon record by finishing in 56 minutes and 51 seconds in Buenos Aires."
+    }
+  ],
+  "economy": [
+    {
+      "title": "RBI projects GDP growth at 6.9% while keeping repo rate unchanged",
+      "summary": "The Reserve Bank of India maintained the benchmark repo rate at 5.25% and projected real GDP growth for the current fiscal year at 6.9%."
+    },
+    {
+      "title": "India's Manufacturing PMI hits 5-year low",
+      "summary": "India's Manufacturing Purchasing Managers' Index (PMI) fell to a 5-year low, signaling a slowdown in industrial activity and output growth."
+    },
+    {
+      "title": "Report outlines 20 key reforms for $20 Trillion economy by 2036",
+      "summary": "A economic report recommended implementing 20 critical structural reforms to propel India into a $20 trillion economy by the year 2036."
+    }
+  ],
+  "science": [
+    {
+      "title": "India and France review bilateral science, technology, and space cooperation",
+      "summary": "India and France reviewed their joint initiatives to further expand bilateral ties in scientific research, technology development, and space exploration."
+    },
+    {
+      "title": "India reaffirms commitment to cervical cancer elimination",
+      "summary": "Union Health Minister J.P. Nadda reiterated India's commitment to eliminating cervical cancer through preventive healthcare measures and research."
+    },
+    {
+      "title": "Health ministry issues advisory following Delhi H1N1 spike",
+      "summary": "With over 1,700 reported Swine Flu (H1N1) cases in Delhi, the Health Ministry listed key symptoms and urged public precautions."
+    }
+  ],
+  "environment": [
+    {
+      "title": "State of India's Environment 2026 Report released",
+      "summary": "The State of India's Environment 2026 report highlighted critical issues including mounting climate risks, human-wildlife conflicts, and gaps in pollution monitoring."
+    },
+    {
+      "title": "BRICS officials meet in New Delhi on climate and sustainability",
+      "summary": "Senior officials from BRICS nations gathered in New Delhi to deliberate on joint environmental priorities, climate action, and sustainable development."
+    }
+  ],
+  "sports": [
+    {
+      "title": "First Khelo India Tribal Games begin in Chhattisgarh",
+      "summary": "The inaugural edition of the Khelo India Tribal Games commenced in Chhattisgarh to nurture sporting talent among tribal youth."
+    },
+    {
+      "title": "SAI and MyBharat launch nationwide engagement initiatives",
+      "summary": "The Sports Authority of India partnered with MyBharat to launch nationwide youth engagement programs ahead of the upcoming Commonwealth Games."
+    }
+  ],
+  "awards_honours": [
+    {
+      "title": "PM Modi awarded FAO's highest honour - Agricola Medal",
+      "summary": "Prime Minister Narendra Modi was conferred with the Agricola Medal, the highest honour of the Food and Agriculture Organization (FAO), which he dedicated to Indian farmers."
+    },
+    {
+      "title": "President Murmu to confer National Teachers Awards 2026",
+      "summary": "President Droupadi Murmu will present the National Teachers Awards 2026 to 48 distinguished educators on Teachers' Day."
+    }
+  ],
+  "defence": [
+    {
+      "title": "India and Japan sign maritime security cooperation pact",
+      "summary": "India and Japan signed a bilateral agreement to enhance maritime security collaboration and deepen overall defence partnership."
+    },
+    {
+      "title": "Defence Minister addresses National Security Summit 2.0",
+      "summary": "Defence Minister Rajnath Singh addressed the National Security Summit 2.0 in New Delhi, emphasizing strategic readiness and border security."
+    }
+  ],
+  "schemes_appointments": [
+    {
+      "title": "Government launches PM RAHAT Scheme for road accident victims",
+      "summary": "The Union Government introduced the PM RAHAT Scheme to provide cashless medical treatment up to ₹1.5 lakh for victims of road accidents."
+    },
+    {
+      "title": "Government introduces ₹497-crore RELIEF scheme for exporters",
+      "summary": "A ₹497-crore RELIEF scheme was launched to support Indian exporters affected by trade disruptions stemming from the Middle East conflict."
+    },
+    {
+      "title": "Ashok Kumar Lahiri appointed Vice Chairperson of NITI Aayog",
+      "summary": "Economist Ashok Kumar Lahiri has been appointed as the new Vice Chairperson of NITI Aayog."
+    },
+    {
+      "title": "UP Government launches MYUVA scheme",
+      "summary": "The Uttar Pradesh government launched the MYUVA scheme to promote self-employment and empower young entrepreneurs across the state."
+    }
+  ],
+  "important_days": [
+    {
+      "title": "International Youth Day - 12 August",
+      "summary": "International Youth Day is observed globally on August 12 to bring youth issues to the attention of the international community."
+    },
+    {
+      "title": "International Day of Yoga - 21 June",
+      "summary": "Recognized by the United Nations, the International Day of Yoga is celebrated every year on June 21 to promote health and holistic well-being."
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which scheme was recently launched by the central government to provide cashless treatment up to ₹1.5 lakh for road accident victims?",
+      "options": [
+        "PM RAHAT Scheme",
+        "PM RELIEF Scheme",
+        "MYUVA Scheme",
+        "PM ABHIM Scheme"
+      ],
+      "answer_index": 0,
+      "explanation": "The central government launched the PM RAHAT Scheme offering cashless medical treatment up to ₹1,50,000 for road accident victims."
+    },
+    {
+      "q": "What is the projected real GDP growth rate for India in the current fiscal year as per the RBI's Monetary Policy update?",
+      "options": [
+        "6.5%",
+        "6.9%",
+        "7.2%",
+        "5.25%"
+      ],
+      "answer_index": 1,
+      "explanation": "The Reserve Bank of India kept the repo rate unchanged at 5.25% and projected India's real GDP growth at 6.9% for the current fiscal year."
+    },
+    {
+      "q": "Which prestigious award from the Food and Agriculture Organization (FAO) was conferred upon Prime Minister Narendra Modi?",
+      "options": [
+        "Norman Borlaug Award",
+        "Agricola Medal",
+        "World Food Prize",
+        "Champions of the Earth"
+      ],
+      "answer_index": 1,
+      "explanation": "PM Narendra Modi received the Agricola Medal, which is the highest honour bestowed by the Food and Agriculture Organization (FAO)."
+    },
+    {
+      "q": "Who has been appointed as the Vice Chairperson of NITI Aayog?",
+      "options": [
+        "Rajiv Kumar",
+        "Raghav Chadha",
+        "Ashok Kumar Lahiri",
+        "Shivraj Singh Chouhan"
+      ],
+      "answer_index": 2,
+      "explanation": "Ashok Kumar Lahiri was recently appointed as the Vice Chairperson of NITI Aayog."
+    },
+    {
+      "q": "The first edition of the Khelo India Tribal Games was hosted by which Indian state?",
+      "options": [
+        "Odisha",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Madhya Pradesh"
+      ],
+      "answer_index": 1,
+      "explanation": "The first Khelo India Tribal Games commenced in the state of Chhattisgarh to promote sports talent among tribal youth."
+    }
+  ]
+}
