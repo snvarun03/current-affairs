@@ -51,6 +51,8 @@
   .item:last-child{border-bottom:none;}
   .item h3{font-family:'Source Serif 4', serif; font-size:1rem; margin:0 0 4px; color:var(--ink);}
   .item p{margin:0; font-size:0.87rem; line-height:1.5; color:#3a3a32;}
+  .item a.source{display:inline-block; margin-top:6px; font-family:'IBM Plex Mono', monospace; font-size:0.7rem; color:var(--pharma-green-light); text-decoration:none; border-bottom:1px dotted var(--pharma-green-light);}
+  .item a.source:hover{color:var(--amber); border-bottom-color:var(--amber);}
   .mcq{background:var(--paper); border:1px solid var(--line); border-radius:8px; padding:14px; margin-bottom:10px;}
   .mcq .q{font-weight:600; margin-bottom:8px; font-size:0.92rem;}
   .mcq .opts{display:grid; grid-template-columns:1fr 1fr; gap:6px;}
@@ -114,7 +116,10 @@ function renderEntry(data){
     if(!items || !items.length) return;
     html += `<div class="section"><div class="drawer-label${sec.alt?' alt':''}">${sec.label}</div><div class="cards">`;
     items.forEach(it => {
-      html += `<div class="item"><h3>${escapeHtml(it.title||'')}</h3><p>${escapeHtml(it.summary||'')}</p></div>`;
+      const sourceLink = it.source_url
+        ? `<a class="source" href="${escapeHtml(it.source_url)}" target="_blank" rel="noopener">Verify source →</a>`
+        : '';
+      html += `<div class="item"><h3>${escapeHtml(it.title||'')}</h3><p>${escapeHtml(it.summary||'')}</p>${sourceLink}</div>`;
     });
     html += `</div></div>`;
   });
