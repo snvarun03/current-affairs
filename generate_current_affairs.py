@@ -37,8 +37,130 @@ QUERIES = {
     "defence": ["India defence security news today"],
     "schemes_appointments": ["India government scheme launch news",
                               "India new appointment chairman news"],
-    "important_days": ["international observance day today"],
 }
+
+# Fixed calendar of widely-recognised observance days, keyed by "MM-DD".
+# This is looked up directly rather than scraped from news, because a news
+# article can mention an observance day (e.g. in a retrospective piece)
+# without that day actually falling on the article's publish date — which
+# was causing wrong days (like Women's Day) to appear under wrong dates.
+IMPORTANT_DAYS_BY_MMDD = {
+    "01-04": ["World Braille Day"],
+    "01-15": ["Army Day (India)"],
+    "01-24": ["National Girl Child Day (India)"],
+    "01-25": ["National Voters' Day (India)"],
+    "01-26": ["Republic Day (India)", "International Customs Day"],
+    "02-04": ["World Cancer Day"],
+    "02-06": ["International Day of Zero Tolerance to FGM"],
+    "02-20": ["World Day of Social Justice"],
+    "02-21": ["International Mother Language Day"],
+    "02-28": ["National Science Day (India)"],
+    "03-03": ["World Wildlife Day"],
+    "03-08": ["International Women's Day"],
+    "03-15": ["World Consumer Rights Day"],
+    "03-20": ["International Day of Happiness", "World Sparrow Day"],
+    "03-21": ["World Forestry Day", "International Day of Nowruz"],
+    "03-22": ["World Water Day"],
+    "03-23": ["World Meteorological Day"],
+    "03-24": ["World Tuberculosis Day"],
+    "04-02": ["World Autism Awareness Day"],
+    "04-07": ["World Health Day"],
+    "04-22": ["International Mother Earth Day"],
+    "04-23": ["World Book and Copyright Day"],
+    "05-01": ["International Labour Day"],
+    "05-03": ["World Press Freedom Day"],
+    "05-08": ["World Red Cross Day"],
+    "05-11": ["National Technology Day (India)"],
+    "05-12": ["International Nurses Day"],
+    "05-15": ["International Day of Families"],
+    "05-17": ["World Telecommunication and Information Society Day"],
+    "05-21": ["Anti-Terrorism Day (India)"],
+    "05-31": ["World No Tobacco Day"],
+    "06-05": ["World Environment Day"],
+    "06-08": ["World Oceans Day"],
+    "06-14": ["World Blood Donor Day"],
+    "06-20": ["World Refugee Day"],
+    "06-21": ["International Day of Yoga"],
+    "06-26": ["International Day Against Drug Abuse and Illicit Trafficking"],
+    "07-01": ["National Doctors' Day (India)"],
+    "07-11": ["World Population Day"],
+    "07-28": ["World Hepatitis Day"],
+    "08-06": ["Hiroshima Day"],
+    "08-09": ["Quit India Movement Day", "International Day of the World's Indigenous Peoples"],
+    "08-12": ["International Youth Day"],
+    "08-15": ["Independence Day (India)"],
+    "08-19": ["World Humanitarian Day"],
+    "08-29": ["National Sports Day (India)"],
+    "09-05": ["Teachers' Day (India)"],
+    "09-08": ["International Literacy Day"],
+    "09-14": ["Hindi Diwas (India)"],
+    "09-16": ["World Ozone Day"],
+    "09-21": ["International Day of Peace"],
+    "09-27": ["World Tourism Day"],
+    "10-01": ["International Day of Older Persons"],
+    "10-02": ["Gandhi Jayanti (India)", "International Day of Non-Violence"],
+    "10-05": ["World Teachers' Day"],
+    "10-08": ["Indian Air Force Day"],
+    "10-09": ["World Post Day"],
+    "10-10": ["World Mental Health Day"],
+    "10-16": ["World Food Day"],
+    "10-24": ["United Nations Day"],
+    "11-14": ["Children's Day (India)", "World Diabetes Day"],
+    "11-19": ["World Toilet Day"],
+    "11-21": ["World Television Day"],
+    "11-26": ["National Law Day (India)"],
+    "12-01": ["World AIDS Day"],
+    "12-04": ["Indian Navy Day"],
+    "12-07": ["Indian Armed Forces Flag Day"],
+    "12-10": ["Human Rights Day"],
+    "12-18": ["International Migrants Day"],
+    "12-23": ["Kisan Diwas / Farmers' Day (India)"],
+}
+
+
+def lookup_important_days(target_date):
+    key = target_date.strftime("%m-%d")
+    names = IMPORTANT_DAYS_BY_MMDD.get(key, [])
+    return [
+        {"title": name, "summary": f"Observed annually on {target_date.strftime('%d %B')}."}
+        for name in names
+    ]
+
+
+def verify_against_headlines(items, headlines):
+    """Keep only items that clearly trace back to one specific scraped headline,
+    and attach that headline as a clickable source.
+
+    This is a safety net against the AI drifting from the source text: each
+    item is matched to the single real headline it overlaps with most. If no
+    headline overlaps enough, the item is dropped rather than risk showing an
+    unverified or misattributed fact in an exam prep tool.
+    """
+    if not headlines:
+        return []  # nothing was scraped for this section on this date — keep nothing
+
+    verified = []
+    for it in items:
+        title_words = set(re.findall(r"[a-z]{4,}", it.get("title", "").lower()))
+        if not title_words:
+            continue
+
+        best_headline, best_overlap = None, 0
+        for h in headlines:
+            h_words = set(re.findall(
+                "[a-z]{4,}", (h.get("title", "") + " " + h.get("snippet", "")).lower()
+            ))
+            overlap = len(title_words & h_words)
+            if overlap > best_overlap:
+                best_overlap, best_headline = overlap, h
+
+        threshold = 1 if len(title_words) <= 2 else 2
+        if best_headline is not None and best_overlap >= threshold:
+            it["source_title"] = best_headline["title"]
+            it["source_url"] = best_headline.get("link", "")
+            it["published_ist"] = best_headline.get("published_ist", "")
+            verified.append(it)
+    return verified
 
 
 def fetch_headlines(query, target_date, limit=4, scan_limit=25, use_date_operators=False):
@@ -72,6 +194,7 @@ def fetch_headlines(query, target_date, limit=4, scan_limit=25, use_date_operato
             "title": e.title,
             "snippet": re.sub("<[^<]+?>", "", getattr(e, "summary", ""))[:300],
             "published_ist": published_ist_date.isoformat(),
+            "link": getattr(e, "link", ""),
         })
         if len(results) >= limit:
             break
@@ -107,11 +230,13 @@ exact schema:
   "awards_honours": [{{"title": "...", "summary": "..."}}],
   "defence": [{{"title": "...", "summary": "..."}}],
   "schemes_appointments": [{{"title": "...", "summary": "..."}}],
-  "important_days": [{{"title": "...", "summary": "..."}}],
   "mcqs": [
     {{"q": "...", "options": ["...","...","...","..."], "answer_index": 0, "explanation": "..."}}
   ]
 }}
+
+Do not include an "important_days" field — that is added separately from a
+fixed calendar, not from these headlines.
 
 Pick 3-5 items per section (skip a section only if truly nothing was scraped
 for it — do not pad with unrelated or older items to fill the quota). Base
@@ -140,6 +265,7 @@ def build_briefing(target_date, use_date_operators=False):
     response = client.models.generate_content(
         model="gemini-3.6-flash",
         contents=prompt,
+        config={"temperature": 0},
     )
     text = response.text
 
@@ -148,6 +274,17 @@ def build_briefing(target_date, use_date_operators=False):
         raise ValueError("No JSON object found in model output:\n" + text)
     data = json.loads(match.group(0))
     data["date"] = target_date_readable
+
+    # Verify every AI-written item against the real scraped headlines for
+    # its section, dropping anything that doesn't clearly trace back to a
+    # real source — better to show fewer items than a wrong one.
+    for section in QUERIES.keys():
+        if section in data:
+            data[section] = verify_against_headlines(data[section], raw.get(section, []))
+
+    # Important days are looked up from a fixed calendar, never from search/AI,
+    # so this field can never be wrong for the date it's shown under.
+    data["important_days"] = lookup_important_days(target_date)
     return data
 
 
